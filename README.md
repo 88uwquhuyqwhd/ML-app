@@ -104,24 +104,6 @@ cd C:\Users\ka\Desktop\ML-app
 npm run package:portable
 ```
 
-## 发布前清理
-
-首发版本发布前，建议先清理本地构建产物、打包输出、SQLite 数据库和项目快照：
-
-```powershell
-cd C:\Users\ka\Desktop\ML-app
-powershell -ExecutionPolicy Bypass -File .\scripts\clean-release.ps1
-```
-
-这个脚本会清理：
-
-- `frontend/release`
-- `frontend/dist`
-- `backend/build`
-- `backend/dist`
-- `backend/data`
-- `backend/__pycache__`
-- `backend/api.spec`
 
 ## 演示数据
 
@@ -133,10 +115,3 @@ powershell -ExecutionPolicy Bypass -File .\scripts\clean-release.ps1
 
 - [dataset_catalog.csv](./demo_datasets/dataset_catalog.csv)
 - [README.md](./demo_datasets/README.md)
-
-## 文档
-
-- 使用说明：[使用说明.md](./docs/使用说明.md)
-- 打包发布：[打包发布.md](./docs/打包发布.md)
-- GitHub 首发说明：[v1.0.0-首发说明.md](./docs/v1.0.0-首发说明.md)
-- 公众号推文稿：[公众号推文稿.md](./docs/公众号推文稿.md)
