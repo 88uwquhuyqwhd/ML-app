@@ -1,0 +1,1406 @@
+﻿order_id,order_date,city,channel_code,sku_code,quantity,unit_price,order_amount,customer_level,status
+700001,2024-05-20,SH,WEB ,SKU-1001,6,88.94,1128.52,普通,shipped
+700002,2024/10/24,Beijing,app,SKU-1002,3,208.47,1507.57, normal,closed
+700003,2024-01-21,shanghai,WEB ,sku-1003,2,257.15,557.0,VIP,paid
+700004,2024/09/03,Beijing,Store,sku-1003,5,139.36,99999.99,普通,closed
+700005,03-01-2025,chengdu,store,sku-1003,5,133,1288.77,普通,refund
+700006,19-08-2024,wuhan ,web,SKU-1001,3件,140.61,626.27,Vip ,paid
+700007,2024-06-18,SH,Store,sku-1003,8件,145.44,683.46,VIP,shipped
+700008,2024-12-15,chengdu,APP,SKU-1002,4,176.13,"1,615.09",,shipped
+700009,2024/04/30,Beijing,Store,SKU1004,3,99.9,2021.15,vip,shipped
+700010,2024/07/09,shanghai,store,SKU-1001,6,42.82,925.93,普通,shipped
+700011,2024-02-10,shanghai,APP,sku_1005,4,58.78,400.02,,paid
+700012,2024-04-30,chengdu,Store,SKU1004,2,98.79,1415.98,vip,paid
+700013,2024-01-07,shanghai,store,sku-1003,4,151.33,1294.69,普通,shipped
+700014,2024-02-05,Beijing,app,sku-1003,7,248.8,1529.63,Vip ,paid
+700015,2024/08/30,chengdu,app,sku_1005,7,79.44,654.94,普通,paid
+700016,08-02-2024,beijing,store,SKU-1001,3,130.31,117.97,普通,paid
+700017,2024-02-21,wuhan ,APP,sku_1005,7,161.07,898.33,普通,shipped
+700018,2024-06-18,SH,app,sku-1003,3,48.99,572.92,VIP,shipped
+700019,2024-06-06,SH,store,SKU-1001,1,169.92,748.75,vip,paid
+700020,2024-10-04,Beijing,WEB ,SKU1004,8,113.33,1694.72, normal,shipped
+700021,02-01-2024,,store,SKU-1002,5,52.32,884.96,vip,paid
+700022,2024/11/15,,app,SKU1004,7,38.74,"1,489.82",普通,paid
+700023,20-06-2024,Beijing,WEB ,SKU-1002,3,201.1,768.41,Vip ,closed
+700024,2025-02-14,beijing,web,sku-1003,6,84.73,938.08,VIP,paid
+700025,11-07-2024,SH,app,sku-1003,3,95.05,25.0,普通,paid
+700026,2024-11-26,chengdu,Store,SKU-1001,6,148.09,676.97,VIP,paid
+700027,2024/12/11,wuhan ,APP,SKU-1002,4,61.6,1372.46,普通,closed
+700028,2024/01/04,Beijing,APP,SKU-1002,8,126.45,825.9,Vip ,closed
+700029,2025-02-01,Beijing,app,sku_1005,6,241,1148.68,普通,paid
+700030,2024/03/12,shanghai,Store,SKU-1001,2,186,896.84,VIP,closed
+700031,2024/09/11,wuhan ,APP,sku_1005,3,117.8,761.24,普通,closed
+700032,2024-12-27,chengdu,APP,sku-1003,5,152.46,1142.26,VIP,shipped
+700033,2024-02-02,chengdu,store,sku-1003,6,82.15,315.32, normal,paid
+700034,2024-01-07,wuhan ,WEB ,sku_1005,3,121.33,,Vip ,shipped
+700035,2024-07-24,,web,sku_1005,6,82.67,526.17,普通,paid
+700036,2024-02-26,SH,app,SKU-1002,1件,61.89,1511.42, normal,paid
+700037,2024/10/21,SH,app,SKU1004,4,89.16,903.08,普通,paid
+700038,20-11-2024,,,sku-1003,4,149.59,300.67,普通,refund
+700039,2024-12-30,shanghai,web,SKU1004,5,92.33,399.51,vip,refund
+700040,2024/04/05,SH,WEB ,sku-1003,3,115.84,848.33, normal,paid
+700041,2024-08-19,wuhan ,web,SKU1004,2,102.63,817.87,VIP,shipped
+700042,2024/10/17,chengdu,app,SKU-1002,4,93.94,442.28,VIP,closed
+700043,2024-07-22,Beijing,app,sku_1005,7,8.0,1349.95,Vip ,shipped
+700044,2024-02-20,beijing,Store,SKU1004,5,164.08,"1,633.11",Vip ,closed
+700045,2024-08-31,SH,APP,sku_1005,3,136.91,738.07,Vip ,paid
+700046,2024-06-10,chengdu,WEB ,SKU-1001,2,86.24,"1,161.49",,shipped
+700047,2024/03/08,SH,APP,sku-1003,4,158.22,1466.39,普通,paid
+700048,2024/01/16,,APP,SKU1004,3,84.34,1162.05,普通,shipped
+700049,14-12-2024,SH,store,sku_1005,5,132.28,650.87, normal,shipped
+700050,2024/04/21,shanghai,store,SKU-1001,1,105.46,672.09,Vip ,shipped
+700051,28-09-2024,wuhan ,,SKU-1001,4,245.95,367.58, normal,paid
+700052,15-02-2024,,app,SKU-1002,4,98.59,25.0,普通,shipped
+700053,2024/12/18,SH,APP,SKU1004,5,95.18,"1,356.88",VIP,closed
+700054,12-10-2024,Beijing,web,sku_1005,4,78.19,846.11,普通,paid
+700055,2024-02-06,shanghai,WEB ,SKU1004,6,132.93,"1,671.02",普通,shipped
+700056,2024/06/23,beijing,WEB ,sku_1005,3,139.11,1420.75,Vip ,closed
+700057,10-06-2024,shanghai,app,SKU1004,3件,43.89,25.0,普通,shipped
+700058,2024-12-19,Beijing,app,sku_1005,5,58.89,399.39, normal,paid
+700059,2024/05/06,Beijing,app,SKU-1001,3,120.22,805.32,普通,paid
+700060,2024-11-16,shanghai,Store,SKU-1002,4,154.64,1064.21,VIP,shipped
+700061,2024-10-15,,app,SKU1004,5,134.16,1296.24, normal,paid
+700062,2024/01/03,beijing,APP,sku_1005,5,81.94,607.92,普通,closed
+700063,2024-01-18,wuhan ,,SKU1004,6,152.13,946.87,Vip ,paid
+700064,2024/01/27,wuhan ,WEB ,SKU-1001,7,160.12,997.8,VIP,shipped
+700065,2024-09-04,chengdu,,SKU-1001,1,62.42,829.38,Vip ,refund
+700066,22-09-2024,shanghai,WEB ,SKU-1002,9,152.55,1031.19,普通,paid
+700067,29-05-2024,shanghai,web,sku_1005,1,144.65,967.27,普通,shipped
+700068,2024-12-25,Beijing,APP,SKU-1001,4,241.46,865.16, normal,paid
+700069,10-09-2024,chengdu,APP,SKU1004,3,134.34,1522.92, normal,paid
+700070,2024-09-28,shanghai,Store,SKU1004,3,119.44,535.26,普通,closed
+700071,2025/02/12,beijing,,sku_1005,3,192.91,480.18,VIP,closed
+700072,2024-10-01,wuhan ,APP,sku_1005,4,134.74,813.26,普通,refund
+700073,2024-02-03,wuhan ,APP,SKU1004,2,123.3,790.76,普通,shipped
+700074,17-10-2024,chengdu,APP,SKU-1001,6,204,499.8,VIP,paid
+700075,17-09-2024,beijing,WEB ,SKU-1001,4,189.74,941.79,普通,paid
+700076,2024-11-08,SH,APP,sku-1003,4,196.99,671.7,Vip ,refund
+700077,2024/05/09,chengdu,store,SKU-1001,6,37.53,549.23,VIP,shipped
+700078,2024/10/01,shanghai,Store,sku_1005,5,169.88,1080.99,VIP,paid
+700079,2024/01/10,chengdu,,SKU-1001,3,141.04,495.12,vip,closed
+700080,02-04-2024,wuhan ,web,sku_1005,4,154.33,631.04,普通,paid
+700081,2024-01-20,shanghai,WEB ,SKU-1001,7,78.93,1515.32, normal,paid
+700082,2024/08/31,shanghai,store,SKU1004,7,148.57,99999.99,普通,paid
+700083,2024-07-14,,APP,sku-1003,4,120.1,1253.7, normal,paid
+700084,2024-09-13,beijing,app,sku_1005,5,150.47,1497.52,VIP,closed
+700085,2024-10-23,Beijing,APP,SKU-1001,5,158.04,1194.94,普通,shipped
+700086,2024-09-04,SH,APP,SKU-1002,5,49.31,1203.83,普通,paid
+700087,24-06-2024,chengdu,app,SKU1004,3,111.38,889.15,Vip ,shipped
+700088,23-02-2024,shanghai,web,SKU-1001,5,136.7,824.95,普通,refund
+700089,2024/01/03,shanghai,app,SKU-1002,7件,153.46,1078.72,普通,paid
+700090,2024/11/26,SH,app,SKU1004,1,177.31,1518.13,普通,shipped
+700091,2024/10/28,wuhan ,Store,sku_1005,3,83.98,1025.75,普通,closed
+700092,2024-12-28,Beijing,APP,sku_1005,6件,26.52,1720.85,普通,shipped
+700093,2024/07/15,beijing,store,SKU-1001,5,91.39,"1,097.53",VIP,closed
+700094,21-04-2024,Beijing,Store,sku-1003,4,71.13,560.67,VIP,refund
+700095,2025/02/15,Beijing,web,sku-1003,3,129.69,"2,441.09",普通,closed
+700096,2024-06-23,,APP,SKU-1001,4,196.48,370.53,普通,paid
+700097,2024-10-15,wuhan ,WEB ,SKU1004,5,166.81,733.96,普通,paid
+700098,2024-11-14,chengdu,WEB ,SKU-1001,2,104.03,743.54,vip,closed
+700099,2024/07/09,chengdu,app,sku-1003,4,146.33,773.71,VIP,paid
+700100,2024-10-15,shanghai,WEB ,sku-1003,6,39.81,397.14,vip,shipped
+700101,2025/01/26,Beijing,web,SKU-1002,6,101.67,"1,031.53",Vip ,paid
+700102,2024/04/17,shanghai,web,SKU-1001,4,106.08,696.2, normal,paid
+700103,2025-02-16,chengdu,WEB ,sku-1003,2,162.1,630.84, normal,closed
+700104,2025-01-28,SH,APP,SKU-1002,5,115.64,535.31, normal,paid
+700105,2024-05-19,beijing,APP,SKU-1002,7,182.96,"1,590.32", normal,paid
+700106,2024-06-03,wuhan ,app,sku_1005,2,70.02,354.55, normal,shipped
+700107,2024-06-29,chengdu,,SKU-1001,4件,106.06,777.46,普通,closed
+700108,2024/08/25,Beijing,WEB ,SKU-1002,5,121.09,232.44,vip,paid
+700109,26-08-2024,beijing,store,SKU-1001,5,167.76,362.07,VIP,refund
+700110,2024-12-29,SH,Store,sku_1005,4,79.08,1772.27,VIP,refund
+700111,2024-08-06,chengdu,store,SKU-1001,5,178.53,811.86,vip,refund
+700112,2024-08-08,wuhan ,web,SKU1004,5,169,877.03,Vip ,shipped
+700113,2024-10-07,beijing,APP,SKU-1001,6,141.75,685.49,VIP,shipped
+700114,2024-03-23,wuhan ,,SKU-1001,7,180,"1,055.98",VIP,paid
+700115,30-01-2024,beijing,Store,SKU-1001,4,136,830.84,普通,closed
+700116,2024-09-10,chengdu,APP,SKU-1002,6,159,904.18,VIP,refund
+700117,03-10-2024,shanghai,APP,SKU-1002,5,244.59,685.87,Vip ,shipped
+700118,2024/02/07,,Store,sku_1005,5,230.7,, normal,shipped
+700119,2024/05/06,SH,APP,SKU-1001,6件,166.35,587.55,vip,shipped
+700120,10-08-2024,SH,WEB ,sku-1003,5,47.13,660.98,Vip ,paid
+700121,2024-04-24,Beijing,store,SKU-1001,4,134.1,723.72,VIP,closed
+700122,06-12-2024,SH,web,SKU-1002,5,171.72,1365.92,普通,shipped
+700123,2024-05-02,Beijing,Store,sku-1003,6件,151,298.35,普通,shipped
+700124,2024-01-06,wuhan ,web,SKU-1001,1,102.31,1160.16,VIP,shipped
+700125,2024-10-17,chengdu,APP,sku-1003,5,64.75,"1,209.80",Vip ,paid
+700126,2024-12-12,beijing,web,sku-1003,4,127.67,1377.91,普通,shipped
+700127,2024/03/01,SH,app,SKU-1002,3,131.91,481.54,vip,paid
+700128,2024-02-25,SH,web,SKU-1001,5,223.57,696.36,,paid
+700129,2025-02-19,shanghai,web,sku-1003,5,152.31,99999.99,普通,closed
+700130,2024-10-11,beijing,web,sku-1003,5,143.39,823.95,普通,shipped
+700131,2024-11-23,wuhan ,store,SKU1004,4,121.01,326.32,普通,paid
+700132,16-07-2024,SH,WEB ,sku-1003,9,132.51,"1,644.64",vip,shipped
+700133,2024-07-06,shanghai,web,SKU-1001,1件,143.12,1095.03,普通,closed
+700134,2025-02-08,chengdu,store,sku_1005,5,57.31,"1,907.68",普通,closed
+700135,2025-02-14,wuhan ,app,sku_1005,5,88.48,1168.37,普通,refund
+700136,2024/09/23,shanghai,web,SKU1004,6,86.61,99999.99,普通,paid
+700137,24-06-2024,wuhan ,app,SKU-1001,1,115.43,1357.43,普通,closed
+700138,2024-01-21,Beijing,store,sku_1005,4,76.87,1020.51, normal,paid
+700139,2025/02/05,Beijing,web,SKU1004,2,115.75,236.02,VIP,shipped
+700140,2024/09/26,Beijing,WEB ,SKU1004,4,146.4,1605.17,vip,closed
+700141,2024/10/23,wuhan ,APP,SKU-1002,6件,118.58,494.36,普通,shipped
+700142,2024/01/16,wuhan ,web,SKU-1001,4,152.66,767.96,普通,paid
+700143,2024-10-25,,web,SKU-1001,5,122.18,,普通,shipped
+700144,2025/01/23,,store,sku_1005,3,120.38,,普通,paid
+700145,2025-01-01,beijing,web,sku-1003,2件,121.9,1377.43,VIP,paid
+700146,2024-07-22,chengdu,APP,SKU-1002,2,152.7,257.76,VIP,shipped
+700147,2024/06/26,SH,store,SKU-1002,2,188.52,222.57,Vip ,shipped
+700148,2024/10/14,shanghai,APP,SKU-1001,5,217,45.41,普通,closed
+700149,2024-12-14,wuhan ,APP,SKU1004,5,214.37,181.4,VIP,shipped
+700150,31-03-2024,chengdu,APP,SKU-1002,5,164.73,1406.07, normal,paid
+700151,10-02-2024,wuhan ,Store,SKU1004,4,139.05,734.99,普通,closed
+700152,2024-04-12,chengdu,app,sku_1005,3,137.2,596.07,Vip ,paid
+700153,2024/10/11,Beijing,store,SKU-1002,3,108.15,"1,439.19",VIP,paid
+700154,2024-04-10,SH,web,SKU-1001,6,99.52,,Vip ,refund
+700155,2024/03/13,beijing,APP,sku_1005,3,205.11,583.39,Vip ,shipped
+700156,2024/02/06,beijing,app,SKU-1002,5,179.06,1038.17,vip,refund
+700157,2024-02-10,,web,sku-1003,2,98.44,663.59,VIP,refund
+700158,2024/09/14,chengdu,web,SKU-1002,4,159.67,269.12,普通,shipped
+700159,2024-09-27,beijing,APP,sku-1003,1,126.29,999.24, normal,paid
+700160,2024-04-05,SH,web,sku-1003,5,125.06,1035.93,普通,shipped
+700161,2024-10-07,chengdu,WEB ,SKU-1002,7,93.65,680.03,VIP,shipped
+700162,07-11-2024,shanghai,web,sku_1005,4,156.81,587.8,普通,closed
+700163,2024/01/10,shanghai,web,sku-1003,3,225.92,,VIP,paid
+700164,2024-10-10,shanghai,app,SKU-1002,3,143.61,1066.66,普通,refund
+700165,2024/09/30,Beijing,web,SKU-1001,8件,134.47,1629.61,普通,paid
+700166,2024/09/06,Beijing,WEB ,sku-1003,2,86.46,419.66, normal,paid
+700167,2024/06/25,wuhan ,APP,sku_1005,5,102.97,,,paid
+700168,2024-05-02,SH,Store,SKU1004,5,86.91,1024.46,vip,paid
+700169,2024/01/20,Beijing,store,SKU1004,4,162.05,780.56,VIP,paid
+700170,2024/12/07,beijing,WEB ,sku-1003,7件,111.09,1387.81,VIP,shipped
+700171,2024-10-26,beijing,APP,SKU-1001,5,33.11,709.09,vip,shipped
+700172,22-08-2024,beijing,WEB ,SKU-1001,4,100.87,826.0,VIP,paid
+700173,2024-12-07,beijing,app,SKU-1002,4,109.77,839.83, normal,shipped
+700174,2024-08-04,SH,web,sku_1005,3,189.39,612.87, normal,paid
+700175,2024-02-17,SH,store,SKU-1002,7,63.15,1670.54, normal,paid
+700176,2024/10/05,SH,APP,sku_1005,5,91.6,753.23,普通,paid
+700177,2025/02/04,shanghai,web,SKU-1001,8,90.74,"1,466.65",vip,paid
+700178,23-03-2024,chengdu,store,sku-1003,3,135.98,1093.72,普通,refund
+700179,2024/12/24,beijing,WEB ,SKU1004,5,8.0,756.34,VIP,shipped
+700180,2024-08-13,shanghai,app,SKU1004,7件,103.83,410.31,普通,paid
+700181,18-02-2024,beijing,WEB ,sku-1003,7,76.83,142.08,普通,paid
+700182,11-04-2024,shanghai,Store,sku_1005,5,166.98,749.67, normal,closed
+700183,2024/05/19,SH,store,SKU-1001,4,113.02,1172.32, normal,paid
+700184,26-03-2024,wuhan ,WEB ,SKU-1001,4,189.22,"2,246.32",VIP,refund
+700185,2024-02-04,wuhan ,,SKU-1002,4,40.16,99999.99,普通,paid
+700186,2024-04-30,chengdu,app,SKU-1002,4,82.49,1053.75,vip,paid
+700187,29-04-2024,beijing,web,sku_1005,3,179.29,924.76,普通,shipped
+700188,2024/01/31,chengdu,,SKU-1001,6,137.76,427.63,普通,paid
+700189,2024/10/29,SH,app,sku_1005,7,146.8,,VIP,paid
+700190,2024-12-31,shanghai,web,SKU-1001,1,8.0,799.06,普通,paid
+700191,11-01-2024,beijing,Store,sku_1005,4,235.77,691.39,普通,paid
+700192,25-04-2024,,store,sku_1005,2件,215.48,1365.27,Vip ,paid
+700193,2024-12-18,wuhan ,WEB ,SKU-1002,5,172.35,1274.38,普通,paid
+700194,14-07-2024,SH,WEB ,SKU-1002,7,107.07,1039.42,普通,shipped
+700195,2024-05-28,SH,web,SKU-1001,1,83.56,1430.47, normal,refund
+700196,2024-09-16,,WEB ,SKU-1001,4,188.72,1356.47,Vip ,refund
+700197,2024/06/05,chengdu,store,sku_1005,6,140.6,,vip,paid
+700198,2024/08/19,chengdu,APP,SKU-1002,3,147.75,,普通,shipped
+700199,2024/07/28,chengdu,Store,SKU1004,3,105.91,818.95,普通,closed
+700200,2024/01/21,SH,APP,SKU1004,6,107.77,, normal,paid
+700201,2024/07/15,Beijing,app,sku-1003,4,173,240.53,VIP,shipped
+700202,2024/05/21,beijing,app,SKU1004,9,119.13,1998.99, normal,shipped
+700203,2024-05-28,Beijing,Store,SKU-1002,5,141.89,868.52,普通,closed
+700204,2024-06-27,wuhan ,app,SKU1004,3,149.92,929.47,普通,closed
+700205,2024-04-07,SH,web,SKU1004,4,157.01,567.03,,paid
+700206,2024/04/22,wuhan ,app,SKU-1001,5,134.55,597.31,vip,paid
+700207,2024-02-28,,WEB ,SKU1004,5,109.18,914.18,Vip ,shipped
+700208,23-01-2024,beijing,web,SKU-1002,5,130.51,887.96,普通,paid
+700209,2024/10/29,beijing,APP,SKU-1001,4,187.88,1205.47,Vip ,refund
+700210,2024-09-16,chengdu,store,sku-1003,4,228.53,443.43,vip,paid
+700211,2024-05-24,SH,WEB ,SKU-1001,6,131.95,1048.9,普通,closed
+700212,2024-05-28,chengdu,app,SKU-1002,4,33.74,818.36,普通,refund
+700213,2024/03/22,chengdu,APP,SKU-1002,6,196.32,1077.39,Vip ,closed
+700214,2024/05/26,Beijing,app,sku_1005,7,236,1328.17,普通,refund
+700215,02-08-2024,shanghai,APP,SKU-1001,7,186,162.92,普通,paid
+700216,2024-04-08,chengdu,Store,SKU-1001,5,147.87,1583.59, normal,paid
+700217,28-09-2024,Beijing,APP,sku_1005,4,123,664.44,vip,shipped
+700218,2024/06/09,SH,Store,sku-1003,3,155.53,484.82,VIP,closed
+700219,2024-10-30,Beijing,store,sku_1005,6,117.59,906.54,普通,paid
+700220,03-10-2024,Beijing,APP,sku-1003,2,50.16,1319.28,普通,shipped
+700221,2024-03-08,shanghai,store,sku_1005,2,235,1311.26,VIP,paid
+700222,2024-02-28,Beijing,,sku_1005,5,161.63,836.26,普通,paid
+700223,2025/01/11,SH,web,SKU1004,2,174,1249.21, normal,shipped
+700224,2024-01-15,Beijing,Store,sku_1005,8件,149,220.76, normal,paid
+700225,2024-11-30,shanghai,Store,sku-1003,3,207.61,848.73,普通,shipped
+700226,06-11-2024,shanghai,Store,sku-1003,6,196,295.43,普通,refund
+700227,28-04-2024,Beijing,web,SKU-1002,3,119.29,618.69,,shipped
+700228,31-05-2024,shanghai,app,sku-1003,6,93.28,1299.64, normal,refund
+700229,12-02-2025,wuhan ,WEB ,sku-1003,5,95.43,734.27,VIP,shipped
+700230,2024/06/16,wuhan ,WEB ,sku-1003,4,136.83,464.72,VIP,closed
+700231,2024-02-14,SH,store,sku-1003,5,213.63,385.1,普通,shipped
+700232,2024/05/11,Beijing,WEB ,sku-1003,5,118.94,1596.5, normal,shipped
+700233,2024/05/22,chengdu,app,SKU-1002,3,54.64,631.46,vip,closed
+700234,2024-12-17,SH,app,SKU-1002,7,67.77,807.6,vip,paid
+700235,2024-09-15,,WEB ,sku-1003,6,92,529.68,,refund
+700236,2024-04-06,SH,web,SKU1004,7,134.14,1619.88,普通,shipped
+700237,2024-05-01,SH,,SKU-1002,7,133.79,681.09,普通,paid
+700238,18-06-2024,Beijing,web,sku_1005,4,182.4,1335.08,普通,paid
+700239,2024/01/15,beijing,APP,sku_1005,4,127,427.43, normal,shipped
+700240,2024/10/03,Beijing,app,SKU-1002,3,140.55,186.17, normal,shipped
+700241,2024-04-19,beijing,WEB ,SKU-1001,5,60.92,528.04,vip,shipped
+700242,2024-04-26,wuhan ,app,SKU1004,5,109.36,701.39,vip,closed
+700243,2024-01-11,wuhan ,web,SKU-1001,2,76.73,804.51,VIP,shipped
+700244,2025-01-22,wuhan ,Store,SKU-1001,2,198.07,957.71, normal,shipped
+700245,2024/08/23,SH,APP,sku_1005,3,131.04,1079.49,Vip ,paid
+700246,2024-02-01,wuhan ,APP,SKU1004,6,146.59,993.96,vip,shipped
+700247,2024/02/25,Beijing,WEB ,SKU-1002,5,101.47,,VIP,closed
+700248,2024-10-14,beijing,WEB ,SKU-1001,7,65.25,1273.24,VIP,shipped
+700249,19-07-2024,SH,app,SKU-1002,1件,116.92,1612.77,vip,closed
+700250,2025/01/31,,APP,SKU-1001,3,192.15,1588.92,普通,shipped
+700251,2024-05-22,chengdu,APP,SKU1004,6,178.12,1169.95,Vip ,paid
+700252,2024-11-10,beijing,app,SKU-1001,6,120.62,1178.65,VIP,refund
+700253,2024-12-03,SH,web,sku-1003,3,139.16,835.05, normal,paid
+700254,2024-04-04,,web,SKU-1001,5,121.2,874.53,vip,refund
+700255,26-01-2025,SH,WEB ,SKU1004,3,97.88,99999.99,VIP,paid
+700256,2024-06-13,chengdu,APP,SKU-1001,4,248.96,773.64,vip,shipped
+700257,2024/12/13,Beijing,store,SKU-1001,8件,119.33,25.0,VIP,shipped
+700258,2024-02-09,wuhan ,Store,SKU-1001,5,164.47,991.21,VIP,shipped
+700259,2024-03-18,SH,WEB ,SKU-1002,4,226.54,"1,157.44",普通,paid
+700260,2024-03-23,wuhan ,WEB ,SKU-1002,1,138.88,25.0,普通,paid
+700261,2024/03/19,SH,Store,sku-1003,4,14.52,1514.6,普通,shipped
+700262,24-07-2024,wuhan ,web,SKU-1002,7,117.18,1038.45,vip,paid
+700263,2024/04/19,wuhan ,web,SKU-1001,10,155.35,898.28,普通,shipped
+700264,2025-01-28,beijing,WEB ,sku_1005,7,111.75,1550.33,vip,shipped
+700265,2025-02-11,beijing,app,SKU1004,5,101.1,976.88,Vip ,shipped
+700266,2024-05-16,chengdu,web,SKU-1001,5,117.87,955.1,vip,paid
+700267,2024-04-24,beijing,Store,sku_1005,4,72.73,639.6,vip,shipped
+700268,2024-12-01,wuhan ,web,sku_1005,5,230.53,,普通,refund
+700269,2024-05-04,chengdu,web,SKU-1001,2,129.72,1820.83, normal,paid
+700270,2024/04/22,chengdu,,SKU1004,4,141.43,99999.99,VIP,refund
+700271,23-01-2025,wuhan ,web,sku_1005,4,159,,vip,closed
+700272,2024-02-28,wuhan ,store,SKU1004,7,93.35,616.55,Vip ,shipped
+700273,25-01-2024,beijing,web,sku_1005,7,80.42,1385.22,VIP,shipped
+700274,2024-06-26,shanghai,Store,sku_1005,8,147.45,1644.76,普通,paid
+700275,2024/10/06,,app,SKU-1001,6件,130.43,1058.55,普通,paid
+700276,2024-12-14,wuhan ,Store,SKU-1002,8件,165.24,536.01,vip,paid
+700277,2024-08-29,beijing,app,SKU-1001,3,113.26,557.26,vip,refund
+700278,2024/03/10,shanghai,APP,sku_1005,7,94.74,842.66,VIP,paid
+700279,2024-01-20,wuhan ,APP,SKU-1001,8件,37.39,799.1,Vip ,closed
+700280,05-05-2024,,WEB ,SKU1004,7,104.06,876.12,普通,shipped
+700281,2024-03-23,Beijing,APP,SKU-1001,2,72.99,782.98,普通,closed
+700282,2024-03-02,chengdu,WEB ,sku-1003,6,218.89,1021.64,Vip ,shipped
+700283,2024-01-02,chengdu,WEB ,SKU-1002,6,136.03,912.28, normal,shipped
+700284,2024/03/07,wuhan ,web,sku-1003,5,82.96,1573.16,普通,shipped
+700285,2024/09/07,,WEB ,sku-1003,6,114.31,,vip,shipped
+700286,2024/05/04,SH,APP,SKU-1002,4,75.09,806.73,普通,shipped
+700287,2024/09/15,shanghai,store,SKU-1001,5,162.66,1538.6,普通,closed
+700288,2024-08-10,beijing,app,SKU1004,6,104.57,1215.3,普通,shipped
+700289,2024-06-21,shanghai,Store,sku-1003,4,85.35,453.81,VIP,shipped
+700290,2024-10-13,shanghai,APP,SKU-1001,4,174.3,1054.92,普通,paid
+700291,2024/11/04,chengdu,web,sku_1005,4,176.63,"1,931.91",普通,closed
+700292,2024/08/11,chengdu,store,SKU1004,4,154.85,926.13, normal,paid
+700293,2024-02-14,wuhan ,Store,SKU1004,5,97.79,, normal,paid
+700294,10-11-2024,Beijing,Store,SKU-1002,3,179.29,736.76,vip,refund
+700295,2025-01-04,SH,web,SKU-1002,8,104.57,1083.79, normal,shipped
+700296,17-03-2024,wuhan ,APP,sku_1005,6件,51.8,243.67, normal,paid
+700297,05-11-2024,chengdu,WEB ,SKU-1002,6,69.25,1144.5,普通,paid
+700298,2024-07-23,SH,web,sku_1005,5,199.89,,普通,paid
+700299,2024/05/23,wuhan ,app,sku_1005,4,135.13,950.92,普通,closed
+700300,2024-01-22,wuhan ,Store,SKU1004,5,84.22,"1,895.12",VIP,shipped
+700301,2024-02-19,beijing,APP,sku-1003,2,156.06,657.31, normal,paid
+700302,2024-06-12,beijing,web,sku_1005,2,193,99.25, normal,paid
+700303,2024-06-24,SH,APP,SKU1004,5,131.22,856.41,Vip ,refund
+700304,2024-12-18,SH,,SKU-1002,4,157.87,974.62,vip,paid
+700305,2024/04/02,beijing,Store,sku-1003,3,131.06,1216.01,vip,paid
+700306,19-11-2024,wuhan ,web,SKU-1001,3,193.73,,普通,closed
+700307,2024/07/04,beijing,app,sku-1003,5,125.18,519.21,vip,paid
+700308,2024-08-18,SH,app,SKU-1001,5,98,415.36,普通,shipped
+700309,2024/12/01,,Store,SKU-1001,3,166.97,1302.79,普通,closed
+700310,2024-11-04,shanghai,WEB ,sku-1003,7,134.55,99999.99,VIP,paid
+700311,2025-02-22,beijing,WEB ,SKU1004,6,40.59,"1,612.71",普通,shipped
+700312,2024-02-03,chengdu,WEB ,sku-1003,2件,122.07,1475.54,普通,closed
+700313,26-09-2024,,,sku-1003,7,92.29,1796.48,普通,paid
+700314,2024-10-02,Beijing,APP,SKU1004,3,153.2,991.85,普通,shipped
+700315,2024-10-24,SH,store,sku-1003,4,145.71,334.12,,shipped
+700316,2024-01-10,,WEB ,SKU-1002,3,76.4,1564.76,普通,refund
+700317,2024-09-08,SH,Store,SKU-1001,2,155.54,849.54,vip,shipped
+700318,2024/11/09,beijing,store,SKU-1001,1件,155,583.99,普通,paid
+700319,2024-05-29,chengdu,WEB ,SKU-1001,7,127.52,1589.25,Vip ,closed
+700320,2025-02-19,SH,store,SKU1004,10,162.63,632.24, normal,paid
+700321,2024-11-17,SH,,SKU-1001,3,181.54,1708.34,VIP,refund
+700322,2024/02/28,beijing,APP,sku_1005,4,122,,VIP,shipped
+700323,2025/01/27,shanghai,web,SKU-1002,8,114.31,1134.63,VIP,refund
+700324,2024/03/24,SH,WEB ,SKU-1002,5,184.51,1146.63,普通,paid
+700325,16-03-2024,wuhan ,Store,SKU1004,2,154.08,376.57,普通,shipped
+700326,25-12-2024,beijing,WEB ,SKU-1001,3,162,1255.04,vip,shipped
+700327,2024/10/16,wuhan ,app,sku_1005,4,102.84,942.1,普通,shipped
+700328,2024-06-25,chengdu,store,SKU-1002,3,134.6,1093.96, normal,paid
+700329,2024-04-04,beijing,web,sku_1005,5,81.47,25.0,普通,shipped
+700330,2024/10/04,shanghai,Store,SKU-1001,2,113.75,439.18,Vip ,shipped
+700331,26-09-2024,beijing,Store,sku-1003,7,134,951.48,VIP,closed
+700332,02-09-2024,beijing,app,SKU1004,5,175.82,"1,471.62",普通,paid
+700333,15-07-2024,beijing,WEB ,SKU-1001,11,142.13,1559.51,普通,shipped
+700334,2024-10-17,SH,web,SKU1004,3,161.58,344.3,vip,closed
+700335,2024-05-29,beijing,app,sku-1003,4,127.95,465.63,普通,shipped
+700336,2024-12-28,wuhan ,web,SKU1004,6,80.83,815.4,VIP,closed
+700337,2025-01-21,shanghai,store,sku_1005,2,57.98,1332.47, normal,paid
+700338,2024-10-16,beijing,,sku_1005,3,142.39,,普通,shipped
+700339,2024-11-06,beijing,web,sku-1003,4,187.98,628.05,普通,paid
+700340,2024/02/13,,web,sku_1005,5,123.64,,普通,closed
+700341,04-05-2024,beijing,APP,sku_1005,4,211,1779.66, normal,shipped
+700342,31-01-2025,chengdu,web,SKU-1001,3件,49.27,462.41,VIP,shipped
+700343,2024-02-26,Beijing,WEB ,sku-1003,4,150.74,488.73,vip,closed
+700344,19-10-2024,chengdu,APP,sku_1005,6,154.73,56.56, normal,paid
+700345,25-12-2024,wuhan ,APP,SKU-1001,7,98.17,974.98,,paid
+700346,2024-06-14,Beijing,web,SKU1004,5,111.96,1303.09,普通,paid
+700347,2024/01/28,beijing,,SKU-1001,3,66.99,855.94, normal,shipped
+700348,2024/04/06,shanghai,Store,SKU-1001,3,161.31,1020.7,普通,refund
+700349,05-12-2024,shanghai,store,SKU1004,1件,145.83,587.09, normal,shipped
+700350,2024-05-10,beijing,app,SKU-1002,2,116.99,872.82,VIP,paid
+700351,2024/04/03,chengdu,Store,SKU-1001,5,149.87,541.57,普通,paid
+700352,2024/02/05,chengdu,app,SKU-1002,2件,57.61,"1,657.02", normal,paid
+700353,2024-11-29,wuhan ,store,SKU1004,6,124.24,1404.39,Vip ,closed
+700354,2024-06-08,chengdu,APP,SKU-1001,9,209.28,451.92,普通,shipped
+700355,2024-11-27,,WEB ,SKU1004,5,67.15,1101.85,VIP,paid
+700356,2024-08-06,Beijing,store,SKU-1001,5,193.06,376.55,Vip ,shipped
+700357,2024-03-10,Beijing,APP,SKU1004,7件,45.36,800.79,,paid
+700358,08-08-2024,wuhan ,app,sku_1005,5,150,979.3,普通,paid
+700359,06-10-2024,chengdu,store,sku_1005,2,116.69,"1,811.34",普通,closed
+700360,2024/11/16,wuhan ,app,sku-1003,4,92.15,506.34,普通,closed
+700361,2025-01-14,SH,WEB ,sku-1003,4,134,498.06,VIP,paid
+700362,2024/07/18,,WEB ,SKU1004,3,126.96,25.0,普通,paid
+700363,2024-11-24,chengdu,Store,SKU-1002,2,59.68,1544.38,VIP,shipped
+700364,2025/02/11,Beijing,web,SKU-1002,5,49.48,828.67,VIP,refund
+700365,11-06-2024,,,SKU1004,7,65.04,25.0, normal,closed
+700366,2025-01-24,SH,app,SKU1004,1,140.42,805.33,普通,paid
+700367,2024/06/03,chengdu,app,SKU1004,2,119.04,1053.68,普通,paid
+700368,2024/09/01,wuhan ,Store,sku-1003,4,163.54,1024.88,vip,paid
+700369,2024-01-20,chengdu,,SKU1004,4,22.96,,普通,paid
+700370,30-03-2024,wuhan ,app,sku-1003,4,127.11,267.51,VIP,shipped
+700371,2024-05-07,shanghai,Store,SKU1004,4,85.74,1302.34,vip,paid
+700372,2024-03-27,chengdu,APP,sku_1005,5,144.4,244.71,VIP,paid
+700373,2024/10/31,shanghai,web,SKU-1001,3,120.22,587.44, normal,paid
+700374,2024/03/12,beijing,web,SKU-1002,5,142.62,970.08,普通,paid
+700375,2024-10-12,wuhan ,app,sku_1005,4,78.25,334.74,普通,paid
+700376,2024-12-02,beijing,APP,sku-1003,2件,96.02,924.3, normal,refund
+700377,2024/12/18,beijing,web,sku-1003,7,123.98,1222.82,普通,paid
+700378,2024-04-16,wuhan ,store,sku_1005,5,53.56,1772.65,vip,shipped
+700379,2024-05-20,chengdu,Store,SKU-1002,3,204,712.1,VIP,shipped
+700380,2024/08/28,wuhan ,web,SKU1004,4,146,1430.95,普通,closed
+700381,2024-03-22,SH,APP,SKU-1001,2,66.91,,普通,shipped
+700382,2024-01-01,shanghai,app,sku-1003,2,185.37,1297.9,,shipped
+700383,2024-05-18,SH,web,SKU1004,2,94.87,99999.99,VIP,closed
+700384,23-02-2025,beijing,APP,SKU-1002,7,94.37,802.8,Vip ,refund
+700385,2024-10-12,SH,APP,sku_1005,3,146.14,1788.03,VIP,paid
+700386,2024-04-19,SH,Store,SKU-1001,3,143.55,1049.5,Vip ,refund
+700387,17-04-2024,wuhan ,app,sku_1005,5,140.08,25.0,VIP,shipped
+700388,2024-10-06,Beijing,web,SKU-1001,4,150.46,875.54,普通,closed
+700389,2025-01-16,beijing,store,sku-1003,6件,188.35,1069.27,普通,shipped
+700390,2025/01/04,beijing,WEB ,sku-1003,5,160.24,363.99,普通,refund
+700391,2025-02-21,wuhan ,web,sku-1003,5,41.03,817.21, normal,shipped
+700392,2024/07/27,beijing,Store,SKU-1002,3,195.45,1141.65, normal,paid
+700393,2025-02-18,wuhan ,APP,SKU-1001,4,174.08,776.97,VIP,closed
+700394,2024-10-15,beijing,store,sku-1003,4,138.79,1124.02,普通,refund
+700395,2024-06-09,chengdu,WEB ,SKU-1001,4件,178.0,199.07,Vip ,shipped
+700396,2024-08-15,wuhan ,store,sku_1005,5,163.35,796.13,VIP,shipped
+700397,2024/05/28,SH,web,SKU1004,3,71.18,61.35,普通,paid
+700398,2024-02-03,wuhan ,web,sku-1003,4,67.95,1147.47,普通,paid
+700399,2024/08/27,,WEB ,sku-1003,5,29.1,1066.83,VIP,closed
+700400,2024/07/03,wuhan ,WEB ,sku-1003,5,34.4,1021.55,VIP,shipped
+700401,2024-12-22,beijing,app,SKU-1002,6,42.26,951.4,普通,refund
+700402,2024-05-16,chengdu,WEB ,sku-1003,4,83.02,"1,129.12",vip,closed
+700403,2025/01/26,wuhan ,store,SKU-1001,4,157,1147.7,普通,paid
+700404,2025-02-18,SH,store,SKU-1001,1,212.79,1060.94,VIP,shipped
+700405,2024-03-27,wuhan ,web,sku-1003,3,199.19,1320.27,VIP,paid
+700406,2025/01/16,Beijing,Store,SKU1004,4,199.52,948.92,普通,paid
+700407,2025-01-30,SH,Store,SKU-1001,4,161.11,914.84,普通,paid
+700408,2024/02/20,Beijing,store,SKU-1002,9,154.6,772.38,vip,closed
+700409,2024-09-08,shanghai,,SKU-1002,1,163.37,1211.17,,paid
+700410,2024-12-04,beijing,app,sku_1005,4,158.98,808.89,普通,shipped
+700411,2024-02-01,chengdu,web,SKU-1002,5,152.3,1339.15,普通,shipped
+700412,2024-12-04,Beijing,Store,sku-1003,6,60.56,595.25,vip,shipped
+700413,2024/03/11,beijing,APP,SKU-1001,4,142.69,841.95, normal,shipped
+700414,2024-01-08,shanghai,app,SKU-1002,7,161.89,1164.45,普通,shipped
+700415,2024-03-25,beijing,Store,SKU-1002,4,79.83,1459.55,vip,closed
+700416,2024-06-25,Beijing,app,SKU-1001,1,159.85,1685.05,VIP,paid
+700417,2024-04-20,chengdu,app,sku-1003,3,38.56,,vip,shipped
+700418,2024/04/03,beijing,APP,sku-1003,4,88.89,1133.11, normal,paid
+700419,2024-08-25,chengdu,web,SKU-1001,2,101.38,25.0,普通,shipped
+700420,2024/02/01,Beijing,WEB ,sku-1003,4,83.32,1418.43,普通,paid
+700421,2024-07-21,chengdu,Store,SKU-1001,3,86.34,,普通,shipped
+700422,2025/01/10,Beijing,APP,sku-1003,4,119.65,25.0,VIP,refund
+700423,2024-04-06,Beijing,,SKU-1001,4,178.4,599.03,,paid
+700424,2024-08-05,beijing,store,sku_1005,4,188.06,598.14,VIP,paid
+700425,2024/03/24,shanghai,store,SKU-1002,3,144.67,1386.35, normal,closed
+700426,01-05-2024,shanghai,WEB ,sku-1003,9,143.11,263.33,普通,closed
+700427,2024-10-17,chengdu,,sku_1005,3,79.39,754.08,vip,paid
+700428,2024-01-11,wuhan ,,sku_1005,5,132.64,686.18,普通,refund
+700429,06-10-2024,beijing,WEB ,SKU-1002,4,110.09,659.55,VIP,shipped
+700430,2024-06-24,shanghai,app,sku-1003,2,122.69,1309.83,普通,paid
+700431,2024/10/28,Beijing,Store,sku_1005,4件,92.58,1303.08,普通,refund
+700432,2024/12/21,shanghai,WEB ,SKU-1001,1件,201.27,"1,616.01",VIP,paid
+700433,2024/01/12,chengdu,store,SKU1004,4,119.47,837.69, normal,refund
+700434,2024/07/20,SH,,SKU-1001,7,295,,vip,shipped
+700435,04-03-2024,wuhan ,store,SKU-1001,5,129.63,771.03,普通,shipped
+700436,2024-04-18,SH,app,SKU-1002,6,160.63,718.63,vip,shipped
+700437,2024/12/12,chengdu,web,sku_1005,6,120.47,1066.58,普通,paid
+700438,22-10-2024,chengdu,APP,sku_1005,6,163.31,1368.36,普通,paid
+700439,2024-06-12,wuhan ,APP,SKU1004,2,106.48,1250.65, normal,paid
+700440,2024/12/28,chengdu,store,SKU1004,4,88.06,822.84,普通,shipped
+700441,15-08-2024,SH,store,SKU-1001,5,117.21,539.12, normal,paid
+700442,2024/07/23,wuhan ,APP,SKU-1001,3,134.27,,Vip ,shipped
+700443,2025-01-14,chengdu,app,SKU1004,4,72.88,394.7,普通,shipped
+700444,2024/02/25,Beijing,Store,SKU1004,1件,175.16,558.74,,refund
+700445,2025-01-24,Beijing,Store,sku_1005,6,45.3,794.84,普通,refund
+700446,30-12-2024,shanghai,,SKU-1001,4,83.73,1055.13,普通,paid
+700447,06-10-2024,SH,,sku_1005,5,173.72,,普通,paid
+700448,2024/01/06,shanghai,store,SKU-1001,4,90.15,49.18,VIP,shipped
+700449,2024-12-11,shanghai,app,sku-1003,5,178.99,"1,990.09",普通,paid
+700450,2024-01-23,,,sku_1005,1件,136.77,494.12,普通,paid
+700451,2024-01-15,chengdu,Store,sku_1005,5,202.73,,Vip ,shipped
+700452,2024-07-10,,WEB ,sku-1003,4,108.08,528.62, normal,closed
+700453,2024-03-23,shanghai,app,SKU-1001,2件,64.39,1315.75,普通,paid
+700454,2024/02/21,shanghai,app,SKU-1002,4,199.02,451.35,普通,shipped
+700455,2024-12-29,wuhan ,APP,SKU-1002,2,171.17,814.18, normal,paid
+700456,01-12-2024,chengdu,web,sku_1005,4,117.4,918.02,VIP,shipped
+700457,2024/12/09,SH,,sku_1005,4,176.04,672.52,普通,shipped
+700458,2024/03/26,SH,app,sku_1005,1件,108.08,139.79, normal,paid
+700459,2024/12/29,Beijing,web,SKU-1001,5,137.55,359.31,Vip ,closed
+700460,08-02-2024,shanghai,store,SKU-1002,2,146.97,1515.53,普通,shipped
+700461,2024-12-09,chengdu,Store,SKU1004,3,142.15,1331.71, normal,closed
+700462,2024/05/22,shanghai,store,SKU-1001,2,102.47,423.7,普通,shipped
+700463,2025-02-01,,app,SKU-1001,9,130.37,1470.02, normal,shipped
+700464,2025-01-01,SH,APP,sku-1003,8,144.07,780.03, normal,closed
+700465,2024-12-09,SH,app,sku-1003,7,123.3,661.9,Vip ,paid
+700466,2024-12-13,chengdu,APP,SKU-1002,3,116.13,548.15, normal,shipped
+700467,2025-02-10,wuhan ,web,sku-1003,3,191.08,646.02,Vip ,shipped
+700468,24-06-2024,beijing,Store,SKU1004,6,67.65,866.53, normal,paid
+700469,2024-11-20,shanghai,WEB ,SKU1004,6件,232.18,1092.5,普通,paid
+700470,2024-08-29,shanghai,WEB ,sku_1005,3,106,, normal,closed
+700471,2024-07-24,beijing,APP,SKU-1002,4,118.17,977.27,普通,paid
+700472,2024-05-10,chengdu,WEB ,SKU-1002,8,155.7,869.96,VIP,closed
+700473,2025-02-21,beijing,store,SKU-1001,3,166.45,696.54,vip,paid
+700474,2024/08/04,,WEB ,SKU-1002,3,125.29,1670.15,VIP,paid
+700475,2025-01-08,chengdu,Store,SKU-1001,5,129.34,638.11,Vip ,paid
+700476,2025-01-15,shanghai,Store,sku_1005,2件,118.7,263.56, normal,closed
+700477,2024/01/08,shanghai,WEB ,sku_1005,3,103.47,309.28,,closed
+700478,2024/12/02,chengdu,store,SKU-1001,4,175.52,1279.41,VIP,paid
+700479,2024/01/31,wuhan ,,SKU1004,7,62.2,89.28,普通,shipped
+700480,2024/06/05,beijing,store,SKU-1002,2,76.71,1343.2,Vip ,paid
+700481,2024/08/30,SH,WEB ,SKU-1001,6,154.69,1013.54,VIP,paid
+700482,2024/03/05,beijing,store,SKU-1002,2,153.62,536.93,普通,paid
+700483,2024-01-31,Beijing,web,SKU1004,7,199,1162.21,,closed
+700484,2024-03-12,Beijing,app,sku_1005,6,103.18,667.45,,shipped
+700485,2024-09-03,shanghai,Store,sku_1005,2,123.23,903.69,VIP,shipped
+700486,2024-08-21,chengdu,Store,SKU-1002,7,124.34,290.76,普通,paid
+700487,2025/01/23,chengdu,APP,sku-1003,5,110.12,676.87,vip,refund
+700488,2025-02-05,,store,SKU-1001,6,81.9,591.38,VIP,refund
+700489,09-07-2024,SH,store,sku_1005,7,151.01,946.02,普通,shipped
+700490,2025/02/15,Beijing,,SKU-1001,4,121.66,99999.99,普通,closed
+700491,18-11-2024,wuhan ,APP,SKU-1002,6,186.23,1190.84,普通,paid
+700492,2024-01-14,shanghai,store,sku-1003,4件,217.89,1031.62,VIP,shipped
+700493,2024-08-15,chengdu,app,SKU-1002,5,61.12,1672.18,VIP,paid
+700494,2025-01-11,SH,app,sku_1005,2,77.11,682.39,Vip ,shipped
+700495,2024-07-14,chengdu,WEB ,SKU-1002,5,108.79,741.4, normal,shipped
+700496,2024-01-12,shanghai,Store,SKU-1001,6,109.8,1515.06,vip,paid
+700497,2024-09-11,beijing,Store,sku_1005,2,198.23,925.67,Vip ,paid
+700498,2024/04/16,SH,WEB ,SKU-1002,5,152,325.59,VIP,closed
+700499,16-09-2024,beijing,APP,sku_1005,3,92.55,1511.51,普通,paid
+700500,2024-02-12,shanghai,store,SKU-1002,5,117.58,659.2,普通,closed
+700501,19-11-2024,chengdu,Store,sku-1003,5,8.0,394.36,VIP,paid
+700502,2024/07/16,SH,web,SKU-1002,1,154.34,1596.45,普通,paid
+700503,2024/07/01,chengdu,,sku_1005,6,133.19,"1,981.71",普通,shipped
+700504,2024-06-08,beijing,store,SKU-1001,3,131.43,1137.79,vip,shipped
+700505,2024/03/16,chengdu,APP,sku_1005,5,50.32,800.72,普通,paid
+700506,29-11-2024,wuhan ,Store,SKU-1001,10,169.91,681.95,Vip ,paid
+700507,2024/03/15,wuhan ,app,SKU1004,6,206.06,459.1,VIP,closed
+700508,2025-01-26,,store,SKU-1002,4,77.63,1657.61, normal,refund
+700509,2024/04/11,shanghai,store,SKU-1002,3,122.67,"1,311.35", normal,shipped
+700510,2024/02/05,chengdu,WEB ,sku-1003,8,79.24,915.83,vip,paid
+700511,2024-04-04,beijing,WEB ,SKU1004,4,148.63,25.0, normal,closed
+700512,17-01-2025,SH,app,SKU-1001,4,32.1,396.74, normal,paid
+700513,2024-01-18,SH,WEB ,sku-1003,5,45.39,1252.86,VIP,shipped
+700514,2024-05-08,wuhan ,web,SKU1004,3件,182.1,530.23,普通,shipped
+700515,27-03-2024,beijing,app,sku-1003,3,104.53,989.59,vip,shipped
+700516,15-07-2024,Beijing,WEB ,SKU-1002,7件,151.85,1105.08,VIP,paid
+700517,2024-03-08,beijing,Store,SKU1004,3,212.66,1061.26,VIP,refund
+700518,2024-07-18,shanghai,Store,SKU-1001,3,143.75,954.21,普通,closed
+700519,2024-12-15,wuhan ,WEB ,SKU-1002,4,74.87,1471.1,普通,closed
+700520,13-06-2024,beijing,store,sku-1003,8,105.21,890.09,普通,paid
+700521,20-05-2024,SH,store,sku-1003,5件,196.62,1287.31,普通,paid
+700522,2024-02-15,chengdu,app,SKU-1001,8,49.29,1313.39,VIP,paid
+700523,2024-10-01,SH,web,SKU-1002,4,111.25,623.0,vip,paid
+700524,2024/06/08,wuhan ,APP,sku_1005,5,181.92,493.64,普通,paid
+700525,02-01-2024,Beijing,,SKU1004,4,67,25.0, normal,shipped
+700526,2024-12-24,Beijing,,sku-1003,2,55.92,816.49,普通,paid
+700527,2024-10-25,SH,store,SKU-1001,4,138.34,556.72,普通,paid
+700528,2024-07-22,chengdu,app,sku_1005,2,91.0,605.35, normal,paid
+700529,2024-01-11,wuhan ,Store,SKU-1002,4,27.04,"1,595.31",普通,paid
+700530,2025/02/09,SH,Store,SKU-1002,7,202,596.53,vip,paid
+700531,2025-01-07,wuhan ,Store,sku-1003,6,102.56,534.52, normal,paid
+700532,2024/02/10,beijing,app,SKU-1001,6,188.76,623.71,普通,paid
+700533,2024-09-08,chengdu,WEB ,SKU-1002,4,145.44,1417.31, normal,shipped
+700534,2024-01-04,wuhan ,WEB ,SKU-1002,5,141.39,1364.94, normal,closed
+700535,2024/03/08,Beijing,store,sku_1005,2,105.69,507.05,普通,shipped
+700536,2024/09/14,chengdu,WEB ,SKU1004,5,231.06,573.39,VIP,shipped
+700537,13-04-2024,chengdu,,sku-1003,3,70.76,906.88,VIP,closed
+700538,2024-03-16,SH,Store,sku-1003,5,112.55,1768.04,普通,paid
+700539,2024-09-11,Beijing,WEB ,SKU-1001,4,195,451.42,,closed
+700540,2025-01-23,shanghai,WEB ,sku-1003,9,108.86,204.22, normal,closed
+700541,24-02-2024,shanghai,Store,sku-1003,3,68.0,,普通,paid
+700542,2024-10-08,SH,Store,SKU-1001,3,46.43,926.33,普通,shipped
+700543,2024-12-11,chengdu,,sku-1003,7,68.39,750.96, normal,closed
+700544,2024/10/19,chengdu,app,SKU-1002,7件,102.64,1262.81,VIP,closed
+700545,2024-10-09,chengdu,web,SKU-1001,3,136.53,495.37, normal,paid
+700546,2024/11/21,Beijing,web,SKU-1001,6,170.46,1364.95,Vip ,paid
+700547,2024-05-27,Beijing,Store,sku-1003,4,131.22,998.98,,shipped
+700548,2024/11/05,wuhan ,,SKU-1002,1件,115.87,540.84,普通,paid
+700549,2024/03/08,wuhan ,web,sku_1005,1,69.57,396.55,普通,closed
+700550,2024-03-26,wuhan ,app,sku-1003,3,109.7,492.47,vip,paid
+700551,29-01-2025,wuhan ,Store,SKU-1002,4,182.79,461.29,普通,shipped
+700552,2024-02-16,SH,web,sku-1003,2,161.81,679.03, normal,refund
+700553,26-10-2024,shanghai,store,sku-1003,9,60.37,876.23, normal,shipped
+700554,2024/11/24,,APP,sku_1005,4,51.97,684.51,vip,closed
+700555,2024/11/18,beijing,app,sku_1005,5,109.79,1178.34,普通,refund
+700556,2024/01/30,chengdu,app,SKU-1002,6,72.0,865.25,普通,paid
+700557,2024-09-03,beijing,Store,SKU-1001,2,158.18,795.38,普通,paid
+700558,2024-01-21,beijing,store,SKU-1001,4,123.53,606.15,普通,paid
+700559,2024-11-15,SH,store,SKU-1002,3,148.24,1133.62,Vip ,refund
+700560,2024/09/08,Beijing,store,SKU-1001,3,71.0,593.84,vip,paid
+700561,2024-11-15,Beijing,Store,SKU-1002,4,102.11,1212.91,普通,paid
+700562,24-08-2024,shanghai,APP,sku-1003,3,64.86,634.07,vip,shipped
+700563,2024-06-20,SH,app,SKU-1001,7,72.73,609.01,vip,refund
+700564,2024-02-19,beijing,store,SKU1004,11,150.11,800.79, normal,paid
+700565,2024-03-26,Beijing,WEB ,sku_1005,5,125.75,,vip,paid
+700566,11-12-2024,shanghai,Store,sku-1003,10,158.77,1087.23, normal,paid
+700567,2024-04-21,wuhan ,WEB ,sku_1005,7,85.91,359.1,普通,shipped
+700568,16-09-2024,beijing,web,sku_1005,6,150.72,504.85,vip,paid
+700569,2024-06-10,,Store,sku-1003,8,103.04,337.6,普通,shipped
+700570,2024/05/26,shanghai,Store,SKU-1001,10,143.58,663.39,vip,shipped
+700571,2024-07-15,chengdu,,sku_1005,4,98.41,1362.62,VIP,shipped
+700572,2024/10/04,,store,SKU-1001,4,87.77,,普通,shipped
+700573,2024/04/21,wuhan ,WEB ,sku_1005,4,94.74,1633.42,普通,shipped
+700574,2024-03-26,Beijing,app,sku-1003,3,117.02,440.29, normal,paid
+700575,2024/01/01,wuhan ,store,SKU-1001,4,207.08,891.87, normal,closed
+700576,29-10-2024,wuhan ,store,SKU-1001,7,281,273.23,vip,paid
+700577,2025/01/07,wuhan ,Store,SKU1004,4,180.81,1304.02, normal,closed
+700578,2024/03/16,beijing,web,SKU-1001,2,157.95,861.05,Vip ,closed
+700579,2024-03-11,chengdu,store,sku_1005,4,154.38,1460.97,Vip ,closed
+700580,2024/03/27,,store,SKU1004,5,98.36,510.89,Vip ,paid
+700581,2024/03/03,chengdu,store,SKU-1001,5,29.3,1205.2,VIP,shipped
+700582,2024-09-21,chengdu,APP,sku_1005,6,47.77,808.65,普通,paid
+700583,31-08-2024,wuhan ,Store,SKU1004,2,61.68,1206.32,vip,shipped
+700584,2024/02/10,beijing,Store,SKU-1002,6,89.94,835.4,普通,shipped
+700585,2024-10-15,beijing,app,sku-1003,6,196.47,"1,646.91",普通,paid
+700586,2024-04-09,beijing,app,SKU1004,6,110.84,212.01,VIP,refund
+700587,2024-04-14,SH,web,sku-1003,4,122.45,1016.13,普通,refund
+700588,2024/09/28,wuhan ,app,SKU1004,5,168,99999.99,普通,paid
+700589,2024/05/14,wuhan ,web,sku_1005,4,53.71,519.82, normal,paid
+700590,2025/01/23,wuhan ,,SKU1004,4,190.46,1505.32,VIP,paid
+700591,2024/10/17,Beijing,Store,sku_1005,3,156.12,,普通,paid
+700592,2024/02/22,wuhan ,APP,SKU-1002,4,119.44,968.93,普通,paid
+700593,2024-09-12,wuhan ,Store,sku-1003,7件,82.88,1279.41, normal,shipped
+700594,12-11-2024,Beijing,WEB ,sku-1003,3,96.16,509.42,普通,shipped
+700595,2024/04/04,Beijing,Store,sku-1003,7,101.7,1478.67,vip,paid
+700596,2024/07/08,Beijing,WEB ,SKU-1002,3,160.09,666.58,普通,refund
+700597,03-04-2024,Beijing,APP,sku-1003,3,109.55,1503.28,vip,paid
+700598,2024-12-20,wuhan ,app,sku_1005,2,58.64,1228.35,普通,paid
+700599,2024-10-09,SH,,sku-1003,8,113.01,565.12,VIP,shipped
+700600,2025/02/10,chengdu,Store,SKU-1001,3,126.54,863.81, normal,shipped
+700601,13-10-2024,chengdu,Store,SKU-1002,5,190,963.57,普通,closed
+700602,2024-03-11,chengdu,Store,sku-1003,4,156.06,712.14,Vip ,shipped
+700603,2024-05-02,chengdu,app,sku-1003,5,114.28,778.38,普通,paid
+700604,11-05-2024,shanghai,APP,SKU-1002,6,159.32,744.96,普通,shipped
+700605,2025-01-23,chengdu,Store,SKU-1002,4件,139.04,998.55,Vip ,closed
+700606,2024/09/28,,app,SKU1004,3,119.4,974.02, normal,paid
+700607,2024-02-26,SH,WEB ,sku_1005,5,139.94,771.81, normal,paid
+700608,2024/07/19,chengdu,store,SKU-1002,7,147.26,1122.39, normal,shipped
+700609,2024-04-05,Beijing,web,SKU-1002,3,186.56,607.94,普通,closed
+700610,2024/09/06,wuhan ,WEB ,SKU-1002,4,84.5,, normal,paid
+700611,2024-11-29,chengdu,Store,SKU-1001,4,86.6,,vip,paid
+700612,2024-12-28,wuhan ,store,SKU1004,3,89.65,860.99,Vip ,paid
+700613,2024-11-14,shanghai,app,SKU-1001,3,142.97,816.95,普通,shipped
+700614,2024/04/27,beijing,app,SKU-1002,3,134.62,773.52, normal,refund
+700615,06-02-2025,wuhan ,APP,SKU-1002,3,143.49,,普通,closed
+700616,2024/10/20,wuhan ,app,SKU-1002,7件,180.31,739.56,普通,refund
+700617,2024-06-28,wuhan ,Store,SKU1004,3,101.15,"1,114.45", normal,refund
+700618,2024/11/10,beijing,app,SKU-1001,4,151.39,707.68, normal,refund
+700619,2024-05-05,beijing,,sku_1005,8,164.16,1042.82,VIP,paid
+700620,2024-07-01,chengdu,app,sku-1003,3,103.71,"1,050.43",普通,refund
+700621,2024/03/09,Beijing,store,SKU1004,5,164.8,1000.94, normal,refund
+700622,27-03-2024,Beijing,store,SKU1004,3,80.21,1427.19,vip,shipped
+700623,2024-01-13,chengdu,store,SKU-1001,3,157.92,462.67,普通,paid
+700624,27-10-2024,beijing,WEB ,SKU-1001,5,153.56,563.11,VIP,paid
+700625,2024/07/27,Beijing,,SKU-1001,7,153.86,"1,792.81",普通,refund
+700626,2024-02-27,SH,APP,SKU-1002,5,143.85,"1,041.15",VIP,closed
+700627,2024/09/21,,app,SKU1004,5,85.59,1100.18,VIP,shipped
+700628,2024-02-13,SH,web,sku_1005,3,153.04,1299.67,普通,shipped
+700629,2024-11-25,beijing,Store,sku_1005,4,128.79,1149.23,普通,paid
+700630,2024-03-29,SH,app,sku-1003,8,113.13,1381.29,普通,shipped
+700631,2024/01/28,SH,APP,SKU-1001,2,72.22,1136.43,普通,paid
+700632,2024/08/01,beijing,APP,sku_1005,3,169.15,"1,528.90",vip,closed
+700633,2024/08/12,Beijing,,sku-1003,3,138.08,207.69, normal,paid
+700634,2024/01/11,chengdu,APP,SKU1004,7,125.31,1332.69,普通,paid
+700635,2024-08-06,SH,APP,sku-1003,5,73.07,1088.25,VIP,paid
+700636,2024/07/05,SH,WEB ,sku-1003,1,168.46,718.41,普通,paid
+700637,23-02-2025,Beijing,,sku_1005,7,143.96,71.36, normal,paid
+700638,13-02-2025,wuhan ,app,sku_1005,4,199.58,"1,402.84", normal,closed
+700639,2024-02-21,beijing,APP,sku_1005,7,90.78,1109.31,普通,refund
+700640,2024-11-14,Beijing,Store,SKU1004,4,89.48,1099.07,vip,paid
+700641,2024-01-24,shanghai,,SKU-1002,1件,96.56,258.06,普通,refund
+700642,2024-07-25,shanghai,,SKU-1002,6,66.55,1279.36,VIP,paid
+700643,2024-06-07,chengdu,app,sku_1005,7,83.94,1063.45,普通,shipped
+700644,2024-10-26,chengdu,WEB ,SKU-1001,4,80.72,582.22,vip,shipped
+700645,11-05-2024,shanghai,web,SKU1004,6,158.01,1180.89,vip,paid
+700646,05-11-2024,SH,WEB ,SKU-1002,6,167.64,866.33,VIP,paid
+700647,04-11-2024,wuhan ,app,sku-1003,6,31.71,771.53,Vip ,paid
+700648,2024/12/25,chengdu,WEB ,sku_1005,7,161.04,613.82,普通,closed
+700649,2024-04-24,shanghai,web,SKU1004,5,124.32,1631.97,VIP,shipped
+700650,2024/04/27,shanghai,,SKU-1001,4,227.18,554.44,普通,paid
+700651,2024-10-11,wuhan ,store,SKU-1001,2件,113.87,115.49,vip,closed
+700652,2025/01/13,,APP,SKU1004,9,69.71,509.42,普通,shipped
+700653,2024/12/26,chengdu,APP,SKU-1001,6,38.93,1005.75, normal,closed
+700654,2024-05-10,beijing,APP,sku-1003,8,231.39,160.75,Vip ,paid
+700655,2025-02-03,SH,web,sku-1003,3,198.23,1156.02,普通,shipped
+700656,2024-12-01,shanghai,store,SKU1004,6,163.23,613.61,普通,closed
+700657,2024/07/30,wuhan ,store,SKU-1002,2,172.42,,,closed
+700658,2024-07-15,Beijing,store,sku_1005,4,196.72,946.98,vip,paid
+700659,2024-11-17,Beijing,Store,SKU1004,7,151,71.08,,shipped
+700660,2024-02-23,,store,sku_1005,3,177.28,1250.85, normal,shipped
+700661,2024/12/16,wuhan ,APP,SKU-1001,2,159.59,705.71,普通,shipped
+700662,2024/11/08,SH,store,SKU-1002,8件,175.46,656.41, normal,paid
+700663,03-07-2024,shanghai,WEB ,sku-1003,3,103.32,865.72,vip,shipped
+700664,2024-09-18,chengdu,app,SKU1004,7,217.52,795.51,VIP,paid
+700665,2024/12/18,Beijing,WEB ,SKU1004,4,92.28,1414.51, normal,shipped
+700666,14-02-2025,wuhan ,Store,SKU-1002,8,221.1,1128.8,普通,closed
+700667,2024-06-15,wuhan ,Store,SKU-1001,7,142.9,1511.59, normal,closed
+700668,2024/03/04,,WEB ,sku-1003,6,172.05,796.17,普通,closed
+700669,2025-02-16,wuhan ,WEB ,SKU-1001,5,131.92,914.95,普通,shipped
+700670,2024-08-03,wuhan ,web,SKU-1001,5,118.76,1573.94,VIP,paid
+700671,2024/10/05,wuhan ,Store,sku_1005,2,99.47,854.98, normal,paid
+700672,2024/01/07,chengdu,,sku-1003,4,171.83,947.47,普通,shipped
+700673,2024/01/09,beijing,APP,SKU-1002,6,56.3,,普通,paid
+700674,2024-09-15,Beijing,,sku_1005,3,240.47,479.87, normal,closed
+700675,16-10-2024,chengdu,APP,SKU-1001,3件,102.9,394.15,,shipped
+700676,2024/12/31,beijing,Store,SKU1004,3,126.98,850.51,普通,refund
+700677,2025-01-11,chengdu,app,sku_1005,6,118.35,,普通,refund
+700678,2024-01-25,wuhan ,store,SKU-1001,1,162.63,374.61,,shipped
+700679,2024/12/17,SH,Store,SKU1004,4,76.75,25.0,普通,paid
+700680,12-05-2024,SH,,SKU-1002,3,254.75,1062.55,,paid
+700681,2024-06-05,chengdu,Store,SKU-1002,4,253,1578.79,普通,paid
+700682,2024/01/04,shanghai,app,sku_1005,5,106.83,735.8,普通,paid
+700683,2024-01-11,SH,store,SKU-1002,6,99.35,1133.5,VIP,shipped
+700684,2024-04-02,wuhan ,app,SKU1004,2,130.47,, normal,closed
+700685,08-12-2024,beijing,app,SKU-1002,3,71,1082.29,普通,closed
+700686,2024/03/21,Beijing,app,sku-1003,4,17.59,1487.25,普通,refund
+700687,2024/06/24,,store,SKU-1001,4,78.11,1473.93,VIP,paid
+700688,2024-08-04,beijing,Store,SKU-1001,1,60.84,1078.4,普通,shipped
+700689,2024/07/23,SH,Store,SKU1004,4,232.69,893.41,vip,shipped
+700690,2024-05-07,chengdu,store,SKU-1002,4,102.16,844.08,普通,shipped
+700691,2025/02/19,SH,app,SKU1004,5,88.55,"1,197.73",VIP,closed
+700692,2024-05-05,,web,SKU-1002,3,124,495.11,vip,closed
+700693,2024/01/04,Beijing,app,SKU-1002,1,100.01,820.9,vip,closed
+700694,2024-10-07,shanghai,Store,sku_1005,5,87.09,1213.97, normal,refund
+700695,19-08-2024,beijing,Store,sku_1005,5,129.29,402.58,VIP,paid
+700696,2024-08-16,SH,store,sku-1003,5,128.11,864.98,,shipped
+700697,2024-04-28,wuhan ,WEB ,sku-1003,2,90.35,485.19,普通,shipped
+700698,2024-02-02,SH,app,SKU-1001,4,154.3,1027.46, normal,shipped
+700699,2024-08-10,chengdu,Store,sku_1005,6,190.86,1544.19, normal,shipped
+700700,26-05-2024,wuhan ,app,sku-1003,4,214.62,,vip,closed
+700701,27-09-2024,chengdu,,SKU-1002,4,122.11,1314.93,Vip ,shipped
+700702,2024/02/22,,APP,sku-1003,1,51.86,,VIP,paid
+700703,2024-08-12,Beijing,WEB ,SKU-1001,3,112.57,1442.26,VIP,paid
+700704,2024/07/10,SH,WEB ,SKU1004,5,227.3,,Vip ,refund
+700705,2024-06-09,beijing,store,SKU-1002,4,220.89,"1,555.65",普通,paid
+700706,2024/01/26,SH,store,sku_1005,4,103.89,, normal,closed
+700707,2024/04/10,wuhan ,store,sku-1003,5,203.19,345.26,普通,refund
+700708,2024-09-28,SH,web,sku-1003,1,142.47,,普通,shipped
+700709,2024-11-27,shanghai,WEB ,sku_1005,6,261,1226.3,vip,paid
+700710,2024-11-29,chengdu,WEB ,SKU-1002,5,88.55,807.16,普通,shipped
+700711,26-12-2024,chengdu,app,SKU1004,8,128.78,1114.38, normal,shipped
+700712,2024-10-10,beijing,app,sku_1005,2,161.77,1104.48,普通,closed
+700713,2025-02-17,chengdu,app,sku_1005,2,164.91,754.59, normal,shipped
+700714,2024/09/04,shanghai,store,sku_1005,5,168.02,,普通,closed
+700715,2024-05-16,wuhan ,app,sku-1003,4,75.59,,VIP,refund
+700716,2024/11/24,SH,APP,SKU1004,5,129.39,611.5, normal,closed
+700717,2024/12/14,beijing,web,SKU-1001,3,135.73,,普通,paid
+700718,2024-09-18,shanghai,APP,SKU1004,6,190.74,984.02,普通,paid
+700719,2025/02/23,shanghai,Store,SKU-1001,3,41.47,1033.18,vip,closed
+700720,2024-11-14,Beijing,WEB ,SKU1004,4,156.06,436.07,普通,paid
+700721,2024-06-11,SH,WEB ,SKU-1001,5,134.63,858.43, normal,paid
+700722,2024-07-30,beijing,Store,sku-1003,5,132.89,1496.64,VIP,paid
+700723,02-05-2024,shanghai,WEB ,sku-1003,6,138.92,915.37, normal,closed
+700724,18-09-2024,chengdu,store,SKU1004,8件,8.0,814.57,普通,closed
+700725,2024-10-29,beijing,APP,sku-1003,2,167.84,928.18,普通,shipped
+700726,2024-02-29,SH,WEB ,SKU1004,4,65.37,656.36, normal,paid
+700727,2024-11-27,shanghai,web,SKU-1002,5件,130.51,,vip,paid
+700728,2025-02-12,chengdu,,sku_1005,6,199.93,654.15,普通,closed
+700729,21-05-2024,SH,,sku-1003,5,26.48,1179.67,普通,paid
+700730,2024/10/23,beijing,WEB ,SKU1004,3,131.59,,,paid
+700731,2024-01-01,SH,WEB ,SKU1004,4,176.04,767.1,VIP,closed
+700732,2024/03/15,wuhan ,APP,sku-1003,5,128.66,887.3,VIP,closed
+700733,2024/08/23,beijing,WEB ,sku_1005,7,98.4,1453.15,Vip ,paid
+700734,2024/11/22,shanghai,web,sku_1005,5,109.32,843.98,普通,paid
+700735,2024-09-30,Beijing,store,sku-1003,5,180,1230.43, normal,shipped
+700736,2024/04/18,wuhan ,store,SKU1004,4,147.99,991.53,普通,paid
+700737,2024-09-21,Beijing,store,sku_1005,3,140.5,1408.0,VIP,paid
+700738,2024-03-16,wuhan ,Store,SKU-1001,4,100.34,909.07, normal,refund
+700739,23-06-2024,wuhan ,app,sku_1005,2,127.38,1004.74, normal,paid
+700740,2024-02-17,Beijing,store,SKU-1001,4,81.47,1165.68,普通,paid
+700741,2024-12-16,Beijing,store,sku-1003,7,62.74,1072.26,普通,shipped
+700742,2024/05/12,wuhan ,web,sku_1005,2,127.25,1367.06,普通,paid
+700743,2024-02-02,SH,web,SKU1004,5,98.07,"2,032.45",VIP,shipped
+700744,09-02-2025,shanghai,web,sku-1003,5,95.15,296.00,普通,paid
+700745,2024-09-06,chengdu,app,SKU-1002,2件,194.6,455.5,普通,shipped
+700746,2024-02-16,beijing,APP,sku-1003,5,93.39,694.43, normal,closed
+700747,2024-07-19,,app,SKU1004,5,160.77,46.28,vip,closed
+700748,2024-07-27,wuhan ,store,sku-1003,3,101.78,,vip,paid
+700749,2024-08-20,Beijing,Store,sku-1003,6,115.67,1010.82,普通,paid
+700750,2025-01-05,shanghai,WEB ,SKU1004,4,121.39,1070.32,vip,shipped
+700751,2024/07/10,beijing,store,SKU1004,7,66.16,468.02,VIP,refund
+700752,2024/03/23,SH,store,SKU-1002,6,95.31,669.32,普通,closed
+700753,2024/02/28,wuhan ,WEB ,sku-1003,4,182,1424.98,普通,paid
+700754,2024-12-23,shanghai,store,SKU1004,3,139.68,1174.06,普通,closed
+700755,2024/10/27,shanghai,store,sku-1003,4,136.13,"1,796.64",普通,shipped
+700756,2024/02/03,beijing,app,sku_1005,3,69.95,1409.28,vip,shipped
+700757,2025/01/27,beijing,store,sku_1005,3,154.34,"1,956.01",普通,paid
+700758,2025-01-29,beijing,web,SKU-1001,4,179.77,25.0,VIP,closed
+700759,2024/03/23,SH,APP,SKU-1002,5,94.04,1103.69,,refund
+700760,2024/11/20,shanghai,Store,SKU-1001,2,250.94,1424.26,VIP,paid
+700761,2024-10-16,Beijing,app,SKU1004,3,197.09,1542.6,普通,shipped
+700762,2024-12-11,beijing,APP,sku_1005,2,123.52,975.60,vip,shipped
+700763,03-11-2024,beijing,app,SKU1004,3,141.12,1442.93,普通,shipped
+700764,24-09-2024,wuhan ,Store,sku-1003,7,188.59,933.02,vip,paid
+700765,2024-01-21,chengdu,Store,SKU-1002,9,49.29,574.89,普通,closed
+700766,2024/02/10,Beijing,store,SKU1004,4,155,844.94,普通,shipped
+700767,2024-11-15,chengdu,store,sku-1003,5,98.05,929.26, normal,shipped
+700768,2024/10/14,,Store,sku-1003,3,97.72,788.27,普通,closed
+700769,2024-12-29,SH,,sku-1003,5,136.86,1180.02,Vip ,shipped
+700770,2024/03/11,wuhan ,Store,sku-1003,4,166.57,217.28,Vip ,closed
+700771,2024/05/05,wuhan ,web,sku_1005,3,183.56,752.49, normal,shipped
+700772,2024-02-18,wuhan ,store,sku-1003,4,59.05,686.46,普通,refund
+700773,2024-09-13,chengdu,,sku_1005,2,113.68,"1,289.09",普通,closed
+700774,01-06-2024,chengdu,store,SKU-1001,6,287,1050.94,普通,paid
+700775,2025/01/08,shanghai,APP,sku-1003,8,180.86,670.68,普通,closed
+700776,2024-04-30,SH,Store,sku_1005,5,127.5,644.17,普通,paid
+700777,2024/05/27,wuhan ,APP,sku_1005,6,180,1177.41,VIP,shipped
+700778,2025-01-25,shanghai,APP,sku-1003,4,147.71,1135.46,普通,shipped
+700779,2024/01/29,chengdu,Store,sku-1003,3件,179.89,1045.5,vip,refund
+700780,2024-07-15,shanghai,Store,SKU-1002,7,142.35,,普通,paid
+700781,2024-03-05,Beijing,,SKU-1002,5,86.84,983.3,VIP,shipped
+700782,2024-11-25,chengdu,,sku_1005,7,97.91,631.68,vip,closed
+700783,2024/03/20,SH,WEB ,SKU-1001,3,204.07,2069.58,vip,closed
+700784,2024/02/02,shanghai,app,SKU-1002,2,87.63,482.35,VIP,paid
+700785,2024/04/27,shanghai,store,SKU1004,2,31.31,787.02,VIP,shipped
+700786,2024-04-23,beijing,,SKU-1002,4,95.05,619.03,VIP,paid
+700787,2024-02-28,wuhan ,Store,SKU-1002,3,96.71,872.19,,refund
+700788,2024-05-02,shanghai,WEB ,SKU1004,6,154.46,1549.81,VIP,shipped
+700789,2024-03-26,Beijing,app,SKU-1002,7,117.2,469.71,普通,shipped
+700790,21-05-2024,Beijing,WEB ,SKU1004,3,139.73,196.9, normal,shipped
+700791,03-09-2024,Beijing,store,SKU-1001,4,177.21,938.74,普通,shipped
+700792,2024-04-16,wuhan ,Store,sku_1005,2,244,64.39, normal,shipped
+700793,2024-01-16,shanghai,app,SKU1004,8件,222.36,1585.37,VIP,paid
+700794,2024-02-22,Beijing,web,SKU-1002,5,107.08,1965.15,普通,shipped
+700795,04-04-2024,wuhan ,Store,sku_1005,7,152.15,1396.85,VIP,shipped
+700796,03-06-2024,wuhan ,store,SKU1004,5件,57.1,1258.31,普通,paid
+700797,2024-08-26,SH,WEB ,SKU1004,5,97,908.34, normal,closed
+700798,27-01-2024,wuhan ,Store,SKU1004,9,78.25,1206.79,vip,paid
+700799,2024/07/24,,,SKU-1002,6,210.62,1021.5,普通,shipped
+700800,2024-05-08,Beijing,WEB ,SKU-1001,2,109.31,389.83,VIP,shipped
+700801,09-12-2024,wuhan ,WEB ,sku_1005,1,8.0,1024.77,普通,shipped
+700802,2024/03/13,wuhan ,app,SKU1004,2,159.49,,VIP,closed
+700803,2025-01-02,SH,web,SKU-1001,5,68.34,784.79,普通,paid
+700804,2024/08/15,Beijing,app,SKU1004,6,121.43,1355.21,,paid
+700805,13-03-2024,Beijing,Store,SKU-1002,7,67.48,926.27,普通,paid
+700806,2024/09/27,shanghai,app,sku_1005,2,118.94,1206.64,普通,shipped
+700807,2024-11-27,wuhan ,web,sku-1003,3件,128.06,426.12, normal,closed
+700808,2025/02/12,SH,app,SKU-1002,6,121.48,1509.58,vip,shipped
+700809,2025-02-01,Beijing,,SKU-1002,3,107.16,783.4,VIP,paid
+700810,03-02-2024,shanghai,APP,SKU-1001,4件,196.47,"1,410.76",VIP,paid
+700811,2024/11/19,SH,APP,SKU1004,4,62.42,974.91,普通,paid
+700812,2024-08-22,SH,store,SKU-1001,5,153.82,598.19,普通,shipped
+700813,2024-08-02,wuhan ,APP,SKU-1002,2,91.88,,,paid
+700814,30-01-2025,beijing,web,SKU-1001,2,122.73,608.71,普通,paid
+700815,2024/02/21,SH,app,SKU-1002,5,183,"1,236.53",Vip ,closed
+700816,2024-05-10,shanghai,app,sku_1005,6,135.12,1004.53,vip,closed
+700817,22-04-2024,shanghai,store,SKU-1001,3,74.02,273.24,,paid
+700818,2024-08-26,beijing,web,SKU-1001,3,19.61,25.0, normal,paid
+700819,25-04-2024,shanghai,web,SKU-1002,8件,50.65,997.53,VIP,refund
+700820,2024-12-04,wuhan ,store,sku_1005,5,56.24,1065.45,vip,paid
+700821,15-01-2024,wuhan ,store,sku_1005,5,67.33,751.35,Vip ,closed
+700822,2024-03-20,SH,WEB ,sku_1005,8,169.6,766.83,vip,paid
+700823,2024-08-27,chengdu,store,SKU-1002,8,79.23,1423.02,Vip ,paid
+700824,11-05-2024,chengdu,APP,SKU1004,5,153.25,688.85,普通,closed
+700825,2025/02/13,shanghai,Store,SKU1004,5,103.33,1052.99,普通,paid
+700826,2024-11-18,chengdu,APP,SKU1004,6,139,"1,806.86",普通,refund
+700827,12-09-2024,wuhan ,store,SKU-1001,4,106.19,1057.73,vip,closed
+700828,2024/07/28,shanghai,web,SKU-1002,3,108.85,746.25,,paid
+700829,03-02-2024,wuhan ,APP,sku_1005,3,72.07,1219.4,普通,paid
+700830,2024/07/12,chengdu,WEB ,sku-1003,5,138.65,259.81,普通,shipped
+700831,2024/05/15,,web,SKU1004,4,114,274.45, normal,refund
+700832,2025-01-31,shanghai,store,SKU-1002,7,110.59,1740.47,vip,paid
+700833,2024-07-22,Beijing,Store,SKU-1002,6,92.49,259.88,vip,shipped
+700834,2024/04/23,Beijing,store,SKU-1001,6,148.98,1059.96,vip,paid
+700835,2024-06-09,wuhan ,store,SKU-1001,4,132,1340.11,Vip ,refund
+700836,2024-04-02,SH,app,SKU-1001,6,185,766.82,Vip ,paid
+700837,2024/05/08,,APP,SKU-1002,4,184.03,983.01,普通,refund
+700838,03-09-2024,chengdu,WEB ,SKU-1002,3,120.82,460.71,普通,paid
+700839,2024-04-02,chengdu,app,SKU-1002,5,65.73,256.53,vip,shipped
+700840,2024/09/08,SH,web,SKU-1002,9,55.73,1320.05,,refund
+700841,2024/09/19,SH,APP,SKU-1001,5,55.98,466.01,普通,paid
+700842,2025-02-15,SH,web,SKU-1001,5,123,736.57,vip,closed
+700843,2025/02/22,SH,WEB ,SKU1004,2,54.32,1253.14,vip,shipped
+700844,2024/09/17,wuhan ,store,SKU1004,2,211,661.82,普通,paid
+700845,2025/01/22,shanghai,app,SKU1004,4,171.98,588.96,普通,closed
+700846,2024-09-14,beijing,app,sku-1003,2,153.81,651.02, normal,paid
+700847,2025/01/01,SH,app,SKU-1001,5,153,1019.06,vip,shipped
+700848,2024/07/14,chengdu,APP,sku-1003,2,70.31,1584.85,,shipped
+700849,2024-05-07,beijing,app,sku-1003,7,227,326.61,VIP,closed
+700850,20-03-2024,shanghai,WEB ,SKU1004,7,152.55,626.79,vip,refund
+700851,2024-08-04,SH,APP,SKU1004,5,111.36,980.2,vip,refund
+700852,2024-02-16,wuhan ,app,SKU-1002,2件,198.47,1090.16,普通,shipped
+700853,2024-04-06,beijing,store,sku-1003,4,177.5,629.7,,shipped
+700854,10-06-2024,SH,WEB ,sku-1003,7,168.99,898.95,,refund
+700855,2024/03/17,SH,app,sku_1005,4,165,807.16,普通,paid
+700856,25-01-2024,SH,WEB ,SKU-1001,4,182.42,867.34,普通,closed
+700857,2024-03-23,chengdu,WEB ,SKU-1001,6,14.26,1747.25,,paid
+700858,2024-01-17,wuhan ,app,sku_1005,6,62.53,"1,154.28",普通,shipped
+700859,2024/08/30,chengdu,web,SKU1004,7,181,53.3,普通,shipped
+700860,2024-06-04,shanghai,store,SKU-1002,4,201.01,52.07,普通,paid
+700861,2024/04/21,SH,web,sku-1003,4,210.8,615.66, normal,closed
+700862,2024/01/24,wuhan ,,SKU-1001,3,52.89,908.65,VIP,refund
+700863,2024-05-26,shanghai,web,sku-1003,4,133.81,295.35,vip,shipped
+700864,23-09-2024,Beijing,APP,SKU1004,8,349,"2,159.62",普通,shipped
+700865,2024-09-04,chengdu,APP,SKU1004,14,119.56,1005.86,Vip ,shipped
+700866,2024/12/06,chengdu,APP,SKU1004,5,102.55,1740.2, normal,paid
+700867,2024-06-22,wuhan ,web,sku_1005,7,148.67,1459.99,vip,paid
+700868,2024-04-21,shanghai,store,SKU1004,8件,139.01,289.1, normal,paid
+700869,01-09-2024,shanghai,APP,SKU-1002,6,137.31,517.02,VIP,paid
+700870,02-04-2024,wuhan ,store,SKU-1001,6,92.4,,Vip ,paid
+700871,2024/06/19,SH,store,sku-1003,3,170,"2,340.41",普通,paid
+700872,2024-05-20,SH,WEB ,sku-1003,4,85.03,"2,777.15", normal,refund
+700873,2024-02-12,wuhan ,APP,SKU-1001,3,76.18,1154.03,普通,shipped
+700874,2024-07-08,shanghai,APP,sku_1005,2,89.81,25.0, normal,paid
+700875,2024/08/25,beijing,APP,sku-1003,2,97.4,844.58,普通,shipped
+700876,2024-05-12,chengdu,web,SKU1004,2,104,,普通,refund
+700877,17-03-2024,wuhan ,,SKU-1001,6,113.41,303.99,VIP,refund
+700878,2024-09-26,chengdu,app,sku_1005,8,180.63,1540.22,VIP,paid
+700879,2024-12-09,shanghai,WEB ,sku-1003,3,149.54,1372.94, normal,paid
+700880,2024/03/12,chengdu,web,sku-1003,3,106.35,63.21,普通,paid
+700881,2024-02-12,chengdu,APP,SKU1004,2,210.62,,普通,paid
+700882,2024/01/03,Beijing,Store,SKU-1002,8,108.29,1099.84,普通,paid
+700883,2025/01/12,beijing,APP,SKU-1001,3,149.0,, normal,paid
+700884,2024/08/12,SH,app,sku-1003,5,141.88,1206.57, normal,paid
+700885,2025/01/30,chengdu,WEB ,sku_1005,3,181.1,559.87, normal,paid
+700886,2024/11/03,wuhan ,APP,SKU-1001,3,130.81,631.31,普通,shipped
+700887,2024/04/08,Beijing,store,sku-1003,8,94.79,574.58,普通,shipped
+700888,2024-11-15,,WEB ,SKU1004,1,47.9,1276.78, normal,paid
+700889,2024/03/24,SH,APP,sku-1003,2,201.56,394.6,VIP,refund
+700890,2024/04/12,SH,store,SKU-1002,4,166,993.3,普通,closed
+700891,2024/12/21,Beijing,store,SKU-1002,2,67.26,937.3,VIP,paid
+700892,2024/05/08,chengdu,APP,SKU-1001,7,180.12,1111.57,,shipped
+700893,2025-02-16,wuhan ,WEB ,sku-1003,2,83.45,874.79,VIP,closed
+700894,2024/05/10,wuhan ,WEB ,SKU-1001,1,162.8,99999.99,普通,paid
+700895,2024-02-16,beijing,Store,sku-1003,1,95.45,533.3,Vip ,shipped
+700896,2024-08-20,chengdu,web,SKU-1002,2,128.56,605.01,vip,closed
+700897,2025/02/02,shanghai,WEB ,sku_1005,10,121.45,722.6,,paid
+700898,2025-01-25,shanghai,Store,SKU-1001,3,99.64,,普通,closed
+700899,2024/01/03,Beijing,store,SKU-1001,6,251,626.16,普通,shipped
+700900,2024-12-01,Beijing,WEB ,SKU-1001,1,98.9,883.66,Vip ,closed
+700901,2024/12/22,beijing,WEB ,SKU-1001,4,160.71,407.89,普通,paid
+700902,2024/12/31,chengdu,APP,sku_1005,8件,146.61,25.0,VIP,closed
+700903,2024-02-22,wuhan ,,sku_1005,4,104.16,"1,141.76",vip,paid
+700904,22-09-2024,SH,Store,sku-1003,2,259.96,370.09,vip,closed
+700905,2024-07-17,beijing,Store,SKU-1001,5,154.78,444.89,vip,shipped
+700906,2024-03-13,wuhan ,Store,SKU-1001,6,109.96,239.35,普通,shipped
+700907,2024-08-12,SH,WEB ,SKU1004,3,187.61,318.53,VIP,closed
+700908,14-01-2025,chengdu,app,SKU1004,7,75.86,1110.2,普通,paid
+700909,2024-04-05,chengdu,web,sku_1005,2,171,595.53,vip,paid
+700910,2024-07-03,beijing,APP,SKU1004,7,141.22,372.03, normal,shipped
+700911,2024/05/06,Beijing,APP,sku-1003,3,143.06,1344.96,vip,shipped
+700912,2025-01-14,chengdu,app,SKU-1001,5,107.0,982.94,vip,paid
+700913,2024-06-14,shanghai,APP,SKU-1001,7,126.71,"1,297.24",普通,paid
+700914,2024/08/03,wuhan ,Store,sku_1005,8,226.57,204.13,Vip ,paid
+700915,2024-11-07,beijing,app,SKU-1001,3,158.86,31.67,,shipped
+700916,2025-01-28,wuhan ,web,sku_1005,5,149.99,, normal,closed
+700917,2025-02-17,SH,WEB ,SKU-1002,4,96.59,903.71,VIP,refund
+700918,2024-05-25,Beijing,store,sku_1005,4,147.25,, normal,paid
+700919,2024-02-07,Beijing,,sku_1005,2,182.48,864.51,,paid
+700920,2024-04-06,wuhan ,store,sku-1003,6,78.37,952.89, normal,shipped
+700921,2024-09-01,chengdu,WEB ,sku-1003,7,52.24,837.37,普通,shipped
+700922,2024-03-07,beijing,store,sku_1005,2,148.46,425.19,普通,refund
+700923,08-10-2024,SH,store,SKU-1002,7,140.12,25.0,普通,refund
+700924,2025/01/08,wuhan ,Store,SKU1004,7件,165.79,1374.22,vip,closed
+700925,2024-03-24,beijing,web,sku_1005,2件,189.33,1350.32,普通,shipped
+700926,2024-09-30,Beijing,store,SKU-1001,3,118.2,697.57,VIP,closed
+700927,2024-09-03,shanghai,store,SKU1004,4,110.58,746.39,vip,paid
+700928,2024/02/03,beijing,web,sku_1005,4,106.07,683.03,普通,closed
+700929,28-12-2024,SH,WEB ,SKU-1002,5,275,341.7,vip,shipped
+700930,2024-07-11,SH,Store,SKU-1001,9,36.52,,普通,shipped
+700931,2024/09/27,,app,sku_1005,4,143.31,245.57,普通,paid
+700932,12-05-2024,chengdu,APP,SKU1004,3,98.72,"1,363.57",vip,closed
+700933,2024-04-06,chengdu,Store,SKU-1001,4,136.01,1157.37,普通,paid
+700934,2024/08/01,wuhan ,WEB ,SKU-1002,6,182.01,611.67, normal,paid
+700935,2024-04-29,wuhan ,WEB ,sku_1005,3,158.02,939.66,VIP,paid
+700936,2024/07/22,chengdu,APP,SKU-1001,6,286,1140.86, normal,paid
+700937,21-06-2024,shanghai,app,SKU-1002,5,155.89,688.44,普通,paid
+700938,2024-07-29,shanghai,,SKU-1001,3,60.6,338.01,普通,shipped
+700939,2024-10-11,beijing,,sku_1005,4,202.51,992.28,VIP,refund
+700940,2025/02/23,shanghai,APP,sku-1003,3,160.03,1716.51,VIP,closed
+700941,2024-05-18,chengdu,store,sku_1005,4,107.43,314.23,普通,paid
+700942,2024/08/13,beijing,app,sku_1005,8,211,99999.99,vip,refund
+700943,2025/02/13,shanghai,WEB ,SKU-1001,4件,86.14,1188.46,普通,paid
+700944,15-02-2024,wuhan ,web,SKU1004,4,158.58,1155.67,普通,paid
+700945,2024/05/15,wuhan ,web,SKU-1002,7,154.17,100.00,普通,paid
+700946,2024/03/10,SH,web,SKU1004,6,84.33,1239.64,Vip ,paid
+700947,20-08-2024,Beijing,APP,sku-1003,1,105.41,66.62,普通,paid
+700948,26-11-2024,Beijing,store,sku_1005,2,159.54,1182.31,Vip ,paid
+700949,11-09-2024,chengdu,web,SKU-1001,2,27.53,1464.23,vip,shipped
+700950,2024-10-20,chengdu,WEB ,sku-1003,5,82.18,1210.62, normal,paid
+700951,2024-11-22,SH,WEB ,SKU-1002,5,224.85,1022.15,vip,refund
+700952,2024-05-13,shanghai,app,SKU-1001,4,124.15,1058.72,普通,shipped
+700953,22-02-2024,SH,,SKU-1001,6,138.01,1209.24,普通,paid
+700954,2024/02/23,chengdu,app,SKU1004,6,118.15,502.45,Vip ,paid
+700955,13-02-2024,Beijing,WEB ,SKU-1002,3,126.69,"1,329.18",普通,paid
+700956,2024-11-19,wuhan ,web,SKU-1001,3,97.61,719.02,普通,closed
+700957,2024-01-25,beijing,WEB ,SKU-1001,2,215,,,shipped
+700958,2024-10-29,,store,SKU1004,8,99.81,1348.9,VIP,closed
+700959,2024-01-26,wuhan ,,sku-1003,4,137.99,1116.42,普通,paid
+700960,2024/01/18,shanghai,web,sku_1005,5,141.18,1290.54,VIP,paid
+700961,2024-05-28,chengdu,Store,SKU-1002,6,189.64,25.0,普通,closed
+700962,2024/09/24,Beijing,,SKU1004,6,130.51,,VIP,closed
+700963,2024-03-14,beijing,APP,SKU1004,5件,71.59,721.79,普通,refund
+700964,2024/03/25,chengdu,app,SKU1004,5,118.71,716.09,vip,paid
+700965,2024-06-21,beijing,web,sku_1005,5,92.07,817.96,VIP,refund
+700966,2024/08/28,Beijing,app,SKU-1001,4,184.27,1339.15, normal,paid
+700967,2025/01/18,SH,app,sku_1005,5件,8.0,543.6,,shipped
+700968,2024/02/07,chengdu,WEB ,SKU-1001,5,142.36,962.78,普通,shipped
+700969,2024/06/24,,Store,sku-1003,6,53.62,1141.63, normal,shipped
+700970,2024-02-11,Beijing,app,sku_1005,4,214.73,990.55,vip,paid
+700971,2024-09-02,,app,sku-1003,4,81.48,135.76,普通,paid
+700972,2024-09-06,shanghai,Store,SKU-1001,4,53,686.45, normal,shipped
+700973,2024/05/20,chengdu,APP,SKU1004,6,148.63,742.91,,paid
+700974,2024-05-16,chengdu,web,SKU1004,6,166.78,"1,198.94",,paid
+700975,2024/02/21,chengdu,app,sku_1005,4,119.72,354.35,Vip ,paid
+700976,2025/02/18,chengdu,APP,SKU-1001,4,139.76,1238.41,VIP,closed
+700977,2024-05-09,SH,store,SKU-1001,4,88,367.21, normal,paid
+700978,2024/06/27,SH,app,sku_1005,4,109.55,289.83,普通,shipped
+700979,16-06-2024,SH,APP,SKU1004,5,72.93,784.78,Vip ,shipped
+700980,2024-11-13,wuhan ,,SKU-1001,4,258,903.46,普通,paid
+700981,31-12-2024,Beijing,app,sku-1003,5,113.41,1022.37,VIP,shipped
+700982,2024/11/16,chengdu,APP,SKU1004,3,70,"1,431.48", normal,closed
+700983,2024-07-30,chengdu,WEB ,SKU-1002,3,124.03,1070.31,VIP,paid
+700984,2024-07-18,,app,sku_1005,6,35.18,897.02,普通,closed
+700985,2025/02/13,chengdu,WEB ,SKU1004,3,101.91,883.91,VIP,closed
+700986,23-02-2024,shanghai,APP,sku_1005,4,257.28,1155.52,vip,paid
+700987,2024/03/14,shanghai,web,SKU-1002,8,124.29,1015.4,普通,paid
+700988,06-02-2025,Beijing,,sku-1003,5,163.66,606.76,普通,paid
+700989,2024-07-30,wuhan ,web,SKU-1002,1,111.06,944.44, normal,closed
+700990,2025-01-23,SH,APP,SKU1004,8,65.1,"2,210.27",VIP,closed
+700991,2024/03/28,shanghai,web,sku-1003,4,168.69,839.87,Vip ,paid
+700992,28-02-2024,beijing,Store,SKU-1002,3,200.77,1055.65,Vip ,paid
+700993,2024-11-09,,,sku-1003,6,144.26,878.71, normal,shipped
+700994,2024/02/17,chengdu,Store,SKU1004,6,77.91,1130.16,Vip ,closed
+700995,24-08-2024,SH,store,SKU1004,7,138.49,946.6,普通,refund
+700996,2025/01/14,shanghai,store,sku_1005,3,128.46,,,shipped
+700997,2024/03/28,wuhan ,Store,SKU1004,4,131.09,936.0,Vip ,paid
+700998,2024-04-13,SH,store,SKU-1002,2,79.23,591.85,VIP,refund
+700999,2024-07-29,Beijing,store,sku-1003,3,51.85,1362.02,VIP,closed
+701000,06-06-2024,Beijing,WEB ,SKU-1002,2,76,"1,408.31",普通,paid
+701001,29-07-2024,beijing,app,SKU-1001,5,137.44,1131.67,普通,paid
+701002,17-01-2024,wuhan ,store,sku-1003,3,108.94,621.85,VIP,refund
+701003,2024-04-07,Beijing,WEB ,sku-1003,6,135.8,1061.79,普通,shipped
+701004,2024-11-10,,WEB ,SKU1004,5,137.92,1646.2,VIP,shipped
+701005,04-02-2025,SH,WEB ,SKU-1002,2,64.58,1350.79, normal,paid
+701006,2024-12-05,chengdu,WEB ,sku-1003,5,158.65,958.78, normal,paid
+701007,2024-09-21,,Store,sku-1003,9,76.86,,VIP,paid
+701008,2024-11-25,Beijing,WEB ,SKU-1002,6,160.31,1063.65,普通,closed
+701009,2024/09/13,Beijing,web,SKU-1001,6,136.86,, normal,shipped
+701010,10-07-2024,SH,,SKU-1001,4,215.25,536.76,VIP,shipped
+701011,2024-03-10,SH,Store,sku-1003,5,143.2,888.48,普通,shipped
+701012,23-08-2024,,Store,SKU-1002,4,211.38,1519.1, normal,closed
+701013,2024-10-02,wuhan ,WEB ,SKU1004,4件,14.18,156.09,Vip ,paid
+701014,2024/01/20,SH,store,SKU1004,6,232,859.09,,shipped
+701015,20-07-2024,Beijing,Store,sku_1005,8,141.77,1062.18,普通,paid
+701016,26-07-2024,SH,web,SKU1004,3,191.65,,普通,paid
+701017,2024/04/07,Beijing,WEB ,sku-1003,8,263,1069.64, normal,refund
+701018,2024/11/12,wuhan ,WEB ,sku-1003,8,261.91,722.1,普通,refund
+701019,2024/10/21,SH,Store,sku_1005,3,81.19,1292.77,普通,shipped
+701020,2024-07-07,chengdu,Store,SKU-1002,5,130.13,841.45,Vip ,refund
+701021,2024-12-06,shanghai,Store,SKU1004,4,182.3,1308.73,普通,paid
+701022,03-06-2024,chengdu,APP,SKU1004,5,131.22,"1,107.50", normal,shipped
+701023,12-01-2025,chengdu,app,SKU-1001,8件,102.38,1167.17,普通,refund
+701024,28-09-2024,wuhan ,,SKU-1001,3,106.29,984.15,vip,closed
+701025,2024-10-25,SH,APP,SKU-1001,6,91.65,879.15,普通,closed
+701026,2024-10-17,beijing,app,SKU1004,6,16.61,921.77,vip,shipped
+701027,23-01-2024,wuhan ,app,SKU-1001,6件,78.34,25.0,普通,closed
+701028,2024-01-02,SH,web,SKU1004,5,171.03,,VIP,refund
+701029,2025/01/02,shanghai,APP,SKU-1001,6,74.83,627.15,普通,paid
+701030,2024-05-18,Beijing,web,SKU-1001,3,156.32,1024.04,Vip ,refund
+701031,15-06-2024,Beijing,Store,SKU-1001,6,62.25,,普通,paid
+701032,2024-02-11,SH,WEB ,sku_1005,8件,137.45,658.31,vip,paid
+701033,03-12-2024,Beijing,app,SKU1004,7,46.96,1355.91, normal,refund
+701034,2024-05-04,shanghai,app,SKU-1001,1,124.01,641.71,VIP,paid
+701035,2024-11-04,shanghai,APP,SKU-1002,4,84.56,532.74,普通,paid
+701036,2024/11/11,wuhan ,,SKU-1002,2,144.61,1253.35,VIP,paid
+701037,2024-04-23,,APP,SKU-1002,4,158.69,609.34,,shipped
+701038,2024-03-18,SH,,sku-1003,6,182.66,"1,151.28",普通,paid
+701039,2024-05-28,beijing,store,sku-1003,3,81.34,1168.24, normal,closed
+701040,2025-01-29,beijing,,SKU-1002,4,91.54,758.71,Vip ,paid
+701041,2024-03-10,shanghai,store,SKU1004,4,98.68,707.64,普通,shipped
+701042,2024/06/23,Beijing,app,SKU-1002,4,55.33,882.68,普通,paid
+701043,2024-09-03,beijing,store,sku-1003,9,160.24,897.73,普通,paid
+701044,22-04-2024,shanghai,store,sku_1005,3,170.52,617.26, normal,shipped
+701045,26-12-2024,SH,app,sku-1003,5,110.32,69.8,普通,closed
+701046,2024/04/18,beijing,APP,sku-1003,6,103.37,642.13, normal,shipped
+701047,21-10-2024,chengdu,app,SKU1004,3,121.71,1245.26,VIP,shipped
+701048,2025-02-06,Beijing,APP,sku_1005,8件,111.78,436.76, normal,closed
+701049,2024/07/06,Beijing,WEB ,SKU1004,6,75.61,971.99, normal,paid
+701050,2024-12-27,beijing,Store,sku_1005,6,81.59,1419.93,Vip ,shipped
+701051,2024-06-22,chengdu,Store,SKU-1002,3,179,1455.62, normal,refund
+701052,2024-03-31,SH,,sku_1005,6,155.02,849.14,普通,paid
+701053,2024/07/20,shanghai,Store,SKU-1001,5,81.48,934.25,VIP,closed
+701054,2025-01-06,beijing,WEB ,SKU-1001,5,86,,VIP,closed
+701055,2024-10-18,SH,web,sku-1003,6,122.09,676.32, normal,paid
+701056,2024-08-03,chengdu,APP,SKU-1001,3,174.34,1862.38,vip,shipped
+701057,2025/01/16,,Store,SKU1004,9,157.15,1073.17,普通,paid
+701058,2024-05-15,Beijing,web,SKU-1002,6,102.22,858.24,普通,shipped
+701059,29-01-2025,wuhan ,app,sku_1005,5,135.69,874.77,普通,paid
+701060,2024/10/02,chengdu,APP,SKU-1002,8,70.15,25.0,,refund
+701061,2024/03/21,chengdu,app,SKU-1001,4,160.94,1045.97,普通,paid
+701062,2024/02/02,wuhan ,APP,sku_1005,2,144.14,498.1,普通,closed
+701063,2024-12-12,beijing,store,SKU-1002,2件,90.39,621.44,vip,paid
+701064,21-02-2025,chengdu,web,sku-1003,6,94.87,803.64,vip,shipped
+701065,11-01-2025,SH,app,SKU-1002,5,142.48,1172.66,vip,refund
+701066,2024-07-26,SH,WEB ,SKU1004,5,161.73,1056.83, normal,shipped
+701067,2024-05-31,shanghai,app,sku_1005,5,110.09,494.44,VIP,paid
+701068,2025/01/28,beijing,app,sku_1005,3,147.78,,普通,shipped
+701069,17-12-2024,wuhan ,web,SKU-1002,5,166.82,25.0,普通,paid
+701070,11-01-2024,chengdu,WEB ,SKU-1001,4,114.41,722.52,vip,paid
+701071,2024-08-09,beijing,,SKU1004,4,100.11,1754.06,Vip ,paid
+701072,2024-03-18,shanghai,store,sku-1003,7,77.29,"1,876.35",vip,shipped
+701073,2024-10-19,shanghai,WEB ,SKU-1002,5,206.39,,普通,paid
+701074,2024-11-11,wuhan ,Store,SKU1004,4,79.9,508.65,Vip ,shipped
+701075,2025-02-06,beijing,WEB ,SKU-1002,2,87.21,1560.58, normal,paid
+701076,16-02-2024,chengdu,APP,SKU-1001,7,130.86,1186.78,vip,paid
+701077,2024-08-02,chengdu,WEB ,SKU-1002,5,174.68,476.14,Vip ,paid
+701078,2025-02-08,SH,,sku_1005,4,91.22,1590.4,VIP,paid
+701079,2024/08/13,,app,SKU-1002,5,78.09,"1,593.31",VIP,paid
+701080,2024-10-31,shanghai,store,SKU1004,6,96.92,1099.18,VIP,refund
+701081,2024-05-24,SH,web,sku-1003,3,104.97,1137.48,普通,paid
+701082,2024/03/01,chengdu,app,sku-1003,3,118.41,99999.99,VIP,closed
+701083,2024/05/11,Beijing,store,SKU-1001,5,74.19,748.17,vip,paid
+701084,2024/04/09,wuhan ,web,SKU-1002,3件,100.26,638.56,Vip ,paid
+701085,2024-06-07,shanghai,WEB ,sku-1003,3,154,333.6,Vip ,paid
+701086,2024/06/16,chengdu,APP,SKU1004,6,115.79,1708.84,普通,shipped
+701087,2025-01-17,,web,SKU-1001,6,26.7,902.79,普通,shipped
+701088,2024-10-07,shanghai,WEB ,SKU-1002,5,108.88,1026.75,Vip ,shipped
+701089,2024/05/08,Beijing,web,sku_1005,5,49,1184.61,普通,paid
+701090,2024/09/12,wuhan ,store,sku-1003,4,151.25,1160.27,普通,shipped
+701091,02-01-2025,wuhan ,Store,sku_1005,3件,162.45,1139.62,普通,paid
+701092,2024/03/10,Beijing,web,sku_1005,4,129.07,608.01,,shipped
+701093,10-01-2024,SH,web,SKU-1001,4,153.24,643.51,Vip ,paid
+701094,2024-03-17,chengdu,app,SKU1004,7,66.68,555.6,vip,closed
+701095,2024/01/03,chengdu,APP,SKU-1002,5,120.96,230.96,普通,paid
+701096,2024/09/23,SH,,SKU1004,4,115.48,1590.09,vip,paid
+701097,2025/01/04,SH,web,SKU1004,6件,116.89,"1,105.17",普通,paid
+701098,2024-03-31,beijing,Store,sku_1005,8件,150.68,1052.58,普通,shipped
+701099,2024/08/15,wuhan ,app,sku-1003,3,63.75,737.54,普通,paid
+701100,2024-04-06,chengdu,WEB ,SKU-1001,1件,160.31,613.42,普通,paid
+701101,2024/04/16,SH,Store,SKU1004,5,41.16,68.46,普通,closed
+701102,2024-12-23,beijing,app,sku_1005,2,51.82,541.66,普通,shipped
+701103,2024-06-18,chengdu,WEB ,SKU-1002,3,44.09,818.47,Vip ,paid
+701104,17-02-2025,Beijing,app,SKU-1002,6,73.04,197.8,普通,shipped
+701105,2024-08-20,SH,app,sku-1003,4,106.99,789.64,VIP,paid
+701106,2024/01/05,wuhan ,app,SKU1004,8,136.28,260.95,普通,shipped
+701107,2024/05/23,beijing,,SKU-1002,4,84.56,522.29, normal,closed
+701108,2024/01/19,beijing,APP,SKU-1002,5,91.29,1707.7,普通,paid
+701109,2024-12-27,chengdu,store,sku-1003,5,138.09,1366.3,普通,paid
+701110,13-12-2024,Beijing,web,SKU-1001,5,104.67,654.65, normal,paid
+701111,2024/08/31,beijing,app,SKU-1001,5,183.46,867.68,vip,closed
+701112,20-01-2024,chengdu,APP,SKU-1001,3,141.45,927.31,普通,closed
+701113,31-03-2024,Beijing,WEB ,SKU-1002,6,148.64,446.42,,closed
+701114,2024-03-30,Beijing,Store,SKU1004,9,142.18,486.16,Vip ,closed
+701115,2024/06/24,SH,app,sku_1005,4,147.14,721.28,,paid
+701116,2024/12/20,SH,WEB ,SKU-1001,3,128.6,936.45,普通,paid
+701117,2024/02/21,Beijing,WEB ,SKU-1002,7,68.1,684.99,普通,paid
+701118,2024-09-14,SH,APP,sku_1005,6,171.97,829.14,,refund
+701119,2024-12-23,chengdu,web,SKU-1002,3,120.26,828.81,,refund
+701120,2024/06/27,shanghai,,sku-1003,4,133.43,1264.24,普通,paid
+701121,2024-03-31,Beijing,store,SKU-1001,2,150.28,1227.28,VIP,shipped
+701122,2024-06-14,chengdu,APP,sku_1005,4,122.54,1013.86,普通,shipped
+701123,2024-07-06,Beijing,store,sku_1005,2,161.14,,VIP,paid
+701124,2024/01/29,SH,APP,SKU-1002,4,122.08,25.0,普通,refund
+701125,2024-06-12,beijing,Store,SKU-1002,8件,111.06,1012.04, normal,paid
+701126,2024-07-24,wuhan ,web,sku-1003,3,72.46,816.19,普通,paid
+701127,2024/11/27,chengdu,web,SKU1004,3,73.27,1036.08,VIP,closed
+701128,2024/09/28,beijing,web,SKU-1001,6,46.38,1375.06, normal,closed
+701129,2024/01/14,wuhan ,app,SKU-1002,3,118.84,880.67,,shipped
+701130,2024-07-05,Beijing,Store,SKU1004,3,145.72,"1,093.30",Vip ,shipped
+701131,2024/03/05,shanghai,WEB ,sku_1005,8,113.74,1079.68,普通,paid
+701132,2024/04/07,Beijing,store,sku-1003,2,106.1,,普通,paid
+701133,2024/07/13,beijing,WEB ,sku-1003,9,180.54,,VIP,shipped
+701134,2024/12/03,SH,Store,SKU-1001,4,8.0,426.63,vip,paid
+701135,02-08-2024,beijing,app,sku-1003,7,171.25,"1,134.30",普通,paid
+701136,2025-01-31,wuhan ,APP,sku-1003,4,217.28,1293.94,普通,shipped
+701137,2024-12-21,Beijing,app,sku_1005,4,86.39,1902.89,普通,refund
+701138,2024-10-27,SH,Store,SKU1004,5,218,965.16,VIP,closed
+701139,2024-10-21,shanghai,Store,sku_1005,3,130.74,362.09, normal,refund
+701140,03-11-2024,SH,store,SKU1004,8,210.69,1009.18, normal,shipped
+701141,2024-02-16,beijing,store,sku-1003,5,113.99,"1,712.02",普通,paid
+701142,2024/05/18,SH,app,SKU-1002,4,116.77,1160.51,vip,paid
+701143,2024-04-19,beijing,Store,SKU-1002,6,96.42,892.76,vip,paid
+701144,2024-10-26,chengdu,Store,SKU1004,7,203.0,906.25, normal,closed
+701145,2024/02/05,wuhan ,app,sku_1005,4,195.69,1050.16,普通,closed
+701146,2024/03/08,wuhan ,APP,sku-1003,6,54.16,1639.2,VIP,paid
+701147,2024-03-13,beijing,app,sku-1003,4,100.2,1897.2,Vip ,shipped
+701148,2024/03/08,Beijing,APP,sku-1003,3,141.3,1009.71,普通,closed
+701149,2024/02/08,chengdu,WEB ,sku_1005,4,107.12,1531.43,普通,paid
+701150,13-06-2024,Beijing,APP,SKU-1002,5,189.57,1049.14,普通,paid
+701151,2024/07/06,wuhan ,WEB ,sku_1005,4,229.24,1051.12,普通,paid
+701152,2024/03/25,chengdu,app,sku_1005,4,107.92,263.73,,paid
+701153,2024-08-25,beijing,app,sku-1003,2,212.15,781.4,普通,paid
+701154,2025-01-13,shanghai,web,sku_1005,4,105.54,1739.3,普通,refund
+701155,2024-04-10,wuhan ,web,SKU-1001,3,166.09,99999.99,普通,shipped
+701156,2024-10-06,chengdu,app,sku-1003,3,149.06,820.93, normal,closed
+701157,2024/08/19,Beijing,store,sku-1003,5,190.61,1039.52,普通,shipped
+701158,2024-09-27,,Store,SKU-1001,3,97.56,992.95,vip,shipped
+701159,2024/08/20,Beijing,store,SKU1004,8,121.44,823.92,普通,shipped
+701160,2025/01/31,SH,,SKU-1001,6,133.74,850.64, normal,refund
+701161,25-05-2024,shanghai,,SKU1004,4,74.46,1267.71,普通,closed
+701162,25-09-2024,,WEB ,sku-1003,2,135.84,958.47,普通,paid
+701163,17-11-2024,chengdu,app,sku_1005,4,117.62,"1,366.80",VIP,refund
+701164,2024/09/07,SH,WEB ,SKU-1002,4,171.08,1188.28,vip,shipped
+701165,2024/08/30,beijing,app,SKU-1002,5,53.63,, normal,paid
+701166,2024/11/23,wuhan ,store,sku-1003,4,153.78,1424.02,vip,paid
+701167,2024-07-22,shanghai,Store,SKU1004,7,167.67,1033.74,,paid
+701168,2025-02-05,shanghai,web,SKU1004,4,159.4,362.99,,closed
+701169,05-02-2024,chengdu,APP,SKU1004,3,191.55,982.16, normal,paid
+701170,2024-04-07,shanghai,APP,sku-1003,4,177.42,605.10,普通,paid
+701171,2024/09/04,shanghai,app,sku_1005,4,194.31,1154.57,普通,closed
+701172,2024/04/13,Beijing,store,sku_1005,3,183.81,724.52,VIP,paid
+701173,2025-02-07,shanghai,store,sku_1005,9,157.87,605.97,普通,paid
+701174,19-01-2025,shanghai,web,sku-1003,4,148,482.56,普通,paid
+701175,2024-01-24,SH,Store,SKU-1002,4,104.28,488.72,普通,closed
+701176,2025-02-20,Beijing,app,sku-1003,2,200.71,583.8, normal,closed
+701177,2024-05-11,shanghai,app,SKU-1001,4,196.12,305.65,VIP,paid
+701178,19-01-2025,wuhan ,,sku-1003,2,93.08,703.26,普通,shipped
+701179,2024-04-06,SH,Store,SKU-1001,8,161.38,, normal,shipped
+701180,2024-11-14,wuhan ,Store,sku_1005,2,106.01,643.37, normal,refund
+701181,2024/12/14,chengdu,app,SKU-1001,4,118.85,680.06,普通,refund
+701182,2024/11/11,shanghai,,sku_1005,6,68.95,,VIP,paid
+701183,2024-03-28,shanghai,WEB ,SKU-1001,3,81.47,905.7,普通,paid
+701184,2025-01-06,beijing,web,SKU1004,2,143.33,999.5,VIP,paid
+701185,2024-11-07,chengdu,,SKU-1001,2,81.14,502.75,VIP,closed
+701186,2024-01-06,chengdu,Store,SKU1004,4,196.0,737.7,vip,paid
+701187,2024-09-08,wuhan ,web,sku_1005,5,144.85,339.45,普通,paid
+701188,2024-07-08,Beijing,Store,SKU-1001,9,192.76,"2,039.70",vip,closed
+701189,2024/10/15,shanghai,APP,SKU-1002,4,159.35,,普通,refund
+701190,2024-12-27,wuhan ,Store,SKU1004,7,63.25,99999.99,VIP,refund
+701191,2024-01-12,chengdu,WEB ,sku-1003,6,150.98,654.9, normal,paid
+701192,2025-01-23,beijing,web,sku_1005,5,125.07,,普通,refund
+701193,10-12-2024,,web,sku-1003,2,146.44,904.0,VIP,paid
+701194,2024-07-28,Beijing,Store,SKU-1002,1,194.2,615.68,VIP,paid
+701195,2024-09-16,Beijing,store,SKU1004,8,76,99999.99,vip,closed
+701196,2024-02-08,,APP,SKU-1001,2件,104.4,869.99,普通,shipped
+701197,2024/08/29,beijing,store,SKU1004,2,101.37,1393.48,,paid
+701198,2024-08-04,beijing,app,sku-1003,4件,158.42,680.03,普通,closed
+701199,2024-10-16,shanghai,store,sku-1003,7,73.06,1517.4,普通,paid
+701200,07-04-2024,chengdu,WEB ,SKU1004,5,210.75,"1,602.86",普通,shipped
+701201,11-01-2025,chengdu,Store,sku-1003,4,136.41,1095.11,普通,paid
+701202,2024-04-23,wuhan ,APP,sku_1005,4,155.86,844.84,VIP,paid
+701203,2024-08-21,Beijing,app,sku_1005,5,70.07,1198.43,Vip ,refund
+701204,2024/07/11,SH,,sku_1005,5,11.33,619.79,vip,shipped
+701205,2024-08-20,Beijing,WEB ,SKU-1001,10,247.59,,普通,shipped
+701206,2025-01-16,shanghai,Store,SKU-1002,9,164.19,146.61,VIP,closed
+701207,2024-09-28,SH,,SKU1004,2,55.68,,vip,paid
+701208,08-07-2024,beijing,APP,SKU-1002,4,134.46,538.09,普通,paid
+701209,2024-12-21,wuhan ,WEB ,sku_1005,5,73.47,1602.25,Vip ,shipped
+701210,2024-08-19,wuhan ,app,sku-1003,3,84.77,1362.57,普通,shipped
+701211,2024-07-20,Beijing,WEB ,SKU-1002,6,72.34,763.85,VIP,closed
+701212,2024-11-01,wuhan ,web,sku-1003,5,132.98,487.24,vip,shipped
+701213,29-10-2024,Beijing,,sku-1003,4,108.72,336.38,普通,paid
+701214,2024-12-16,SH,Store,SKU1004,6,72.51,1004.9,Vip ,shipped
+701215,2024/06/19,chengdu,Store,SKU-1002,4,141.02,25.0, normal,refund
+701216,16-10-2024,chengdu,web,SKU1004,5,161.72,893.0,VIP,shipped
+701217,2024-05-18,wuhan ,APP,sku-1003,5,143.85,1289.32,vip,paid
+701218,2024-08-10,wuhan ,,sku_1005,7,137.15,1213.99,Vip ,refund
+701219,2024-07-15,SH,,SKU-1001,4,23.6,1141.67,vip,paid
+701220,2024-06-29,shanghai,app,SKU-1002,3,202.59,782.55,普通,refund
+701221,19-06-2024,Beijing,APP,SKU-1002,5,189.56,667.43, normal,paid
+701222,10-01-2025,beijing,app,SKU-1001,7,123.43,175.86,VIP,shipped
+701223,2024-10-14,SH,web,SKU1004,5,119.79,1333.37,vip,closed
+701224,2025/01/28,Beijing,APP,sku_1005,2,100.36,1381.94,Vip ,refund
+701225,2024-06-14,SH,Store,SKU1004,3,144.53,653.02, normal,shipped
+701226,2024-07-23,Beijing,app,SKU-1002,4,112.65,699.31,vip,shipped
+701227,2024-03-06,shanghai,store,sku-1003,8,93.34,1193.63,vip,shipped
+701228,2024/07/04,wuhan ,APP,sku-1003,5,80.07,81.77,普通,closed
+701229,2024/06/22,Beijing,web,sku_1005,4,191.11,99999.99, normal,paid
+701230,2024-07-05,wuhan ,APP,SKU-1001,6,118.67,748.95,Vip ,refund
+701231,2024/05/28,Beijing,web,sku_1005,3,103.94,"2,201.26",vip,closed
+701232,2024-11-19,chengdu,web,sku-1003,5,145.8,1271.22,,paid
+701233,2024-09-01,beijing,APP,SKU1004,5,104.29,1028.99,Vip ,closed
+701234,2025-02-10,shanghai,,SKU1004,10,51.27,1209.79,普通,refund
+701235,2024/05/03,wuhan ,WEB ,SKU-1002,3,112.63,490.57,普通,shipped
+701236,2024-12-16,Beijing,Store,SKU1004,4,184.0,866.31,VIP,paid
+701237,2024/07/12,Beijing,Store,SKU-1002,4,91.9,1265.93,Vip ,refund
+701238,20-06-2024,Beijing,store,sku-1003,4,154.11,1098.42,普通,refund
+701239,2024/08/03,,WEB ,sku-1003,3,135,"2,224.18",vip,closed
+701240,2024-11-07,shanghai,app,SKU1004,3,121.01,542.9,VIP,closed
+701241,2025-01-27,beijing,app,sku-1003,6,112.54,823.06,vip,paid
+701242,20-11-2024,SH,WEB ,sku_1005,4,113.8,495.18,普通,paid
+701243,24-06-2024,Beijing,store,SKU-1002,3,136.89,1330.3,VIP,shipped
+701244,2024/08/09,shanghai,store,SKU-1001,7,136.08,1173.97,vip,closed
+701245,11-10-2024,chengdu,,SKU-1002,8件,168.17,1194.34,普通,shipped
+701246,2024-06-19,SH,app,SKU-1002,6,118.84,2075.9, normal,shipped
+701247,15-06-2024,SH,Store,SKU-1001,6,153.83,869.28, normal,paid
+701248,09-02-2024,Beijing,WEB ,SKU-1002,5,170.43,996.19,普通,refund
+701249,2024/02/08,chengdu,APP,SKU1004,4,249.32,195.86,普通,refund
+701250,26-02-2024,shanghai,APP,SKU1004,2,64.73,965.12,vip,shipped
+701251,2024/04/11,shanghai,store,sku_1005,7,185,434.91,普通,shipped
+701252,01-05-2024,shanghai,Store,sku_1005,3,65.86,973.25,VIP,shipped
+701253,2024-05-10,beijing,app,SKU-1001,4,117.77,539.79,普通,refund
+701254,2025-01-29,shanghai,APP,SKU1004,3,150.54,782.24,普通,paid
+701255,2024/09/22,beijing,WEB ,sku-1003,1,170,818.87,普通,closed
+701256,2024/09/28,shanghai,WEB ,SKU-1001,5,154.61,755.52, normal,closed
+701257,2024-07-20,wuhan ,store,SKU-1001,3,205.96,774.37, normal,paid
+701258,2024-12-15,chengdu,store,sku-1003,3,126.67,, normal,paid
+701259,2024-09-11,chengdu,WEB ,sku-1003,4,107.06,820.31, normal,paid
+701260,2024-07-24,shanghai,APP,sku_1005,3,196.02,1662.73,vip,paid
+701261,2024/06/03,chengdu,APP,sku_1005,4,147.5,906.63,VIP,paid
+701262,2024/01/29,SH,app,sku-1003,5,145.9,1034.81,VIP,shipped
+701263,2024/01/31,Beijing,store,SKU1004,11,153.38,751.58,Vip ,paid
+701264,2024-09-24,SH,WEB ,SKU-1001,5,259.12,664.99,普通,shipped
+701265,2024/07/19,SH,Store,sku-1003,1,103.86,773.19, normal,shipped
+701266,2024-02-09,SH,Store,SKU-1001,5,76.16,679.44,普通,shipped
+701267,2024-05-31,chengdu,,sku_1005,2,157.39,336.48,普通,closed
+701268,2024-12-22,beijing,web,SKU-1002,5,10,1135.3,普通,shipped
+701269,2024-10-13,wuhan ,web,SKU-1002,4,143.88,,vip,shipped
+701270,19-12-2024,wuhan ,web,SKU-1002,2,39.79,976.45,普通,closed
+701271,2024-11-28,shanghai,APP,SKU-1002,4,156.44,540.89,Vip ,paid
+701272,2024/12/17,shanghai,Store,SKU1004,7,169.36,,vip,paid
+701273,2024/04/17,wuhan ,app,sku-1003,5,80.66,1296.2, normal,refund
+701274,2024-08-22,SH,Store,SKU-1001,4,124.2,664.47,普通,shipped
+701275,2024/01/24,wuhan ,app,sku-1003,4,87.61,967.14,普通,refund
+701276,2024/07/11,beijing,APP,SKU-1002,9,183.3,,普通,refund
+701277,2024-04-26,wuhan ,APP,SKU-1002,3,111.57,672.54,,paid
+701278,2025/02/21,chengdu,app,SKU1004,6,182.22,914.45,Vip ,paid
+701279,01-01-2025,shanghai,Store,SKU1004,6,87.39,920.1,普通,paid
+701280,04-12-2024,,web,sku_1005,6,135.96,336.58,vip,paid
+701281,2024-08-05,chengdu,Store,SKU-1001,7,177.25,"1,325.18",Vip ,paid
+701282,2024/06/08,,store,SKU1004,6,176.34,846.31,vip,paid
+701283,2024-05-21,shanghai,WEB ,sku-1003,6件,121.05,853.96,,shipped
+701284,19-04-2024,SH,APP,SKU-1001,3,105.72,1129.37, normal,closed
+701285,2024/01/26,wuhan ,web,sku-1003,4,107.51,542.46,VIP,shipped
+701286,27-11-2024,wuhan ,store,SKU-1001,4,164.13,1010.18,vip,closed
+701287,2024-10-15,Beijing,WEB ,SKU1004,6,148.04,1242.26,vip,paid
+701288,14-05-2024,wuhan ,Store,SKU-1002,6,84.17,1131.95,Vip ,paid
+701289,04-01-2024,beijing,Store,SKU1004,5件,173.5,395.47,Vip ,paid
+701290,2024/08/22,shanghai,Store,SKU-1001,3,19.01,1075.09,普通,shipped
+701291,2024-09-08,chengdu,web,sku-1003,4件,126.38,1459.05,VIP,paid
+701292,2024/09/30,chengdu,app,SKU1004,4,183.14,1038.57,普通,paid
+701293,2024-01-17,shanghai,store,sku_1005,3,169.98,808.56,VIP,paid
+701294,2024/09/24,chengdu,Store,SKU-1002,4,68.16,"1,044.35",普通,paid
+701295,2025-02-06,SH,APP,SKU-1001,4,201.37,1160.72,Vip ,closed
+701296,2024/09/29,chengdu,store,SKU1004,4,104.07,1790.06,vip,paid
+701297,2024/04/17,shanghai,APP,SKU-1001,3件,167.16,1101.56,普通,closed
+701298,2024-08-01,shanghai,WEB ,SKU1004,5,121.16,879.9,,shipped
+701299,11-02-2025,shanghai,WEB ,SKU-1001,4,118,"1,614.96", normal,closed
+701300,2024/05/19,Beijing,web,SKU1004,6,125.85,1401.52,普通,shipped
+701301,2024/10/08,chengdu,WEB ,sku-1003,4,184,945.65,普通,paid
+701302,2024-02-29,chengdu,store,SKU1004,6,106.87,1129.8,vip,paid
+701303,22-01-2024,wuhan ,Store,SKU-1002,5,120.77,, normal,shipped
+701304,12-11-2024,shanghai,app,SKU-1002,3,94.41,682.34,vip,paid
+701305,2024-02-24,chengdu,app,sku_1005,5,160.49,991.74,,shipped
+701306,2024/06/16,Beijing,APP,sku_1005,3,162.12,832.23,VIP,shipped
+701307,2024/09/19,wuhan ,app,sku-1003,5,102.44,25.0,,closed
+701308,2024-10-17,Beijing,Store,sku_1005,6,114.23,432.72,,paid
+701309,14-02-2024,shanghai,web,sku-1003,8,57.95,535.46,普通,shipped
+701310,2024/08/25,Beijing,web,sku-1003,5件,184.08,25.0,VIP,shipped
+701311,2024/12/09,shanghai,store,SKU-1001,7,154.66,928.75,VIP,shipped
+701312,2024/07/24,wuhan ,app,SKU-1002,5,83.11,702.47,vip,shipped
+701313,23-01-2025,shanghai,APP,SKU-1001,6,233,1294.91,普通,shipped
+701314,2024-06-07,wuhan ,web,SKU1004,3,120.46,443.23,普通,shipped
+701315,2024/01/12,wuhan ,app,SKU-1002,3,185.37,629.76,vip,refund
+701316,27-01-2025,wuhan ,web,sku-1003,3件,95.11,477.42,,refund
+701317,2024-09-30,Beijing,Store,SKU-1001,4,91.08,,vip,paid
+701318,2024/10/25,SH,store,sku-1003,5,134.4,1151.69,,shipped
+701319,22-06-2024,shanghai,,sku_1005,5,52.59,675.69,VIP,paid
+701320,2024-06-02,beijing,,sku_1005,4,114.79,1490.79,普通,refund
+701321,2024-08-21,,Store,sku_1005,9,135.87,997.35,Vip ,paid
+701322,2024/01/06,SH,app,SKU1004,7,91.31,668.50,VIP,closed
+701323,2024/12/05,Beijing,WEB ,SKU1004,8,121.13,543.03,VIP,paid
+701324,2025-02-21,shanghai,APP,sku-1003,3,94.3,,普通,paid
+701325,2024/03/08,,app,SKU-1001,5,150,889.39,普通,refund
+701326,2024/07/11,SH,WEB ,sku_1005,6,102.89,1309.09,Vip ,paid
+701327,14-08-2024,Beijing,APP,SKU-1001,3,62.22,1127.13,,refund
+701328,2024/07/02,Beijing,app,SKU-1002,3,132.06,1516.5, normal,shipped
+701329,2024/01/23,,APP,sku_1005,8,82.41,820.02,,paid
+701330,2025-01-25,chengdu,web,SKU-1002,4件,147.97,875.98,Vip ,refund
+701331,11-02-2025,chengdu,Store,SKU1004,4,171.29,827.29,vip,paid
+701332,2024/01/24,beijing,,sku_1005,4,82.87,695.45, normal,paid
+701333,2024/02/12,beijing,web,SKU-1002,6,98.94,662.64,Vip ,paid
+701334,2024-12-25,chengdu,,sku-1003,2,187.43,1215.92,VIP,refund
+701335,2024/11/06,Beijing,store,SKU-1002,4,157.99,1178.7,VIP,paid
+701336,18-03-2024,SH,Store,SKU-1002,1,168.56,904.94, normal,shipped
+701337,2024/12/26,beijing,store,SKU-1001,4,157.77,"1,382.64",普通,paid
+701338,2024-01-06,Beijing,Store,SKU-1002,5,168.26,963.72, normal,paid
+701339,2024-01-26,wuhan ,Store,sku_1005,6,154.39,696.96,普通,shipped
+701340,2024-12-01,chengdu,APP,sku-1003,6,117.94,1071.55,普通,paid
+701341,2024/01/28,Beijing,WEB ,sku_1005,2,8.0,555.76,vip,paid
+701342,2024-03-03,chengdu,web,SKU1004,4,135.33,289.29,VIP,shipped
+701343,15-01-2025,SH,Store,SKU-1001,5,226.7,872.71,普通,shipped
+701344,2024-12-12,shanghai,app,SKU-1002,6,86.24,, normal,paid
+701345,2024/08/14,wuhan ,WEB ,sku_1005,4,59.12,385.46,Vip ,paid
+701346,2024-01-21,wuhan ,APP,sku_1005,8,88.89,1308.54,,paid
+701347,2024-10-29,beijing,Store,sku-1003,6,28.57,865.21,VIP,shipped
+701348,2024/10/12,chengdu,store,sku-1003,6,81.89,638.93,普通,paid
+701349,2024/10/20,beijing,store,SKU1004,4,167,641.25, normal,refund
+701350,2024/04/28,shanghai,store,sku_1005,5,170.37,100.00,Vip ,paid
+701333,2024/02/12,beijing,web,SKU-1002,6,98.94,662.64,Vip ,paid
+700055,2024-02-06,shanghai,WEB ,SKU1004,6,132.93,"1,671.02",普通,shipped
+701203,2024-08-21,Beijing,app,sku_1005,5,70.07,1198.43,Vip ,refund
+700439,2024-06-12,wuhan ,APP,SKU1004,2,106.48,1250.65, normal,paid
+700419,2024-08-25,chengdu,web,SKU-1001,2,101.38,25.0,普通,shipped
+701111,2024/08/31,beijing,app,SKU-1001,5,183.46,867.68,vip,closed
+700442,2024/07/23,wuhan ,APP,SKU-1001,3,134.27,,Vip ,shipped
+700026,2024-11-26,chengdu,Store,SKU-1001,6,148.09,676.97,VIP,paid
+700002,2024/10/24,Beijing,app,SKU-1002,3,208.47,1507.57, normal,closed
+701221,19-06-2024,Beijing,APP,SKU-1002,5,189.56,667.43, normal,paid
+700197,2024/06/05,chengdu,store,sku_1005,6,140.6,,vip,paid
+700923,08-10-2024,SH,store,SKU-1002,7,140.12,25.0,普通,refund
+700242,2024-04-26,wuhan ,app,SKU1004,5,109.36,701.39,vip,closed
+700787,2024-02-28,wuhan ,Store,SKU-1002,3,96.71,872.19,,refund
+700312,2024-02-03,chengdu,WEB ,sku-1003,2件,122.07,1475.54,普通,closed
+700470,2024-08-29,shanghai,WEB ,sku_1005,3,106,, normal,closed
+700649,2024-04-24,shanghai,web,SKU1004,5,124.32,1631.97,VIP,shipped
+701343,15-01-2025,SH,Store,SKU-1001,5,226.7,872.71,普通,shipped
+701347,2024-10-29,beijing,Store,sku-1003,6,28.57,865.21,VIP,shipped
+700694,2024-10-07,shanghai,Store,sku_1005,5,87.09,1213.97, normal,refund
+700859,2024/08/30,chengdu,web,SKU1004,7,181,53.3,普通,shipped
+700842,2025-02-15,SH,web,SKU-1001,5,123,736.57,vip,closed
+700420,2024/02/01,Beijing,WEB ,sku-1003,4,83.32,1418.43,普通,paid
+701117,2024/02/21,Beijing,WEB ,SKU-1002,7,68.1,684.99,普通,paid
+700635,2024-08-06,SH,APP,sku-1003,5,73.07,1088.25,VIP,paid
+700944,15-02-2024,wuhan ,web,SKU1004,4,158.58,1155.67,普通,paid
+700143,2024-10-25,,web,SKU-1001,5,122.18,,普通,shipped
+700408,2024/02/20,Beijing,store,SKU-1002,9,154.6,772.38,vip,closed
+700856,25-01-2024,SH,WEB ,SKU-1001,4,182.42,867.34,普通,closed
+700723,02-05-2024,shanghai,WEB ,sku-1003,6,138.92,915.37, normal,closed
+700579,2024-03-11,chengdu,store,sku_1005,4,154.38,1460.97,Vip ,closed
+700353,2024-11-29,wuhan ,store,SKU1004,6,124.24,1404.39,Vip ,closed
+700243,2024-01-11,wuhan ,web,SKU-1001,2,76.73,804.51,VIP,shipped
+700154,2024-04-10,SH,web,SKU-1001,6,99.52,,Vip ,refund
+700745,2024-09-06,chengdu,app,SKU-1002,2件,194.6,455.5,普通,shipped
+700738,2024-03-16,wuhan ,Store,SKU-1001,4,100.34,909.07, normal,refund
+700057,10-06-2024,shanghai,app,SKU1004,3件,43.89,25.0,普通,shipped
+701099,2024/08/15,wuhan ,app,sku-1003,3,63.75,737.54,普通,paid
+700886,2024/11/03,wuhan ,APP,SKU-1001,3,130.81,631.31,普通,shipped
+700630,2024-03-29,SH,app,sku-1003,8,113.13,1381.29,普通,shipped
+701046,2024/04/18,beijing,APP,sku-1003,6,103.37,642.13, normal,shipped
+700314,2024-10-02,Beijing,APP,SKU1004,3,153.2,991.85,普通,shipped
+700608,2024/07/19,chengdu,store,SKU-1002,7,147.26,1122.39, normal,shipped
+700237,2024-05-01,SH,,SKU-1002,7,133.79,681.09,普通,paid
+700271,23-01-2025,wuhan ,web,sku_1005,4,159,,vip,closed
+700079,2024/01/10,chengdu,,SKU-1001,3,141.04,495.12,vip,closed
+700285,2024/09/07,,WEB ,sku-1003,6,114.31,,vip,shipped
+701264,2024-09-24,SH,WEB ,SKU-1001,5,259.12,664.99,普通,shipped
+700483,2024-01-31,Beijing,web,SKU1004,7,199,1162.21,,closed
+700801,09-12-2024,wuhan ,WEB ,sku_1005,1,8.0,1024.77,普通,shipped
+701029,2025/01/02,shanghai,APP,SKU-1001,6,74.83,627.15,普通,paid
+700949,11-09-2024,chengdu,web,SKU-1001,2,27.53,1464.23,vip,shipped
+700926,2024-09-30,Beijing,store,SKU-1001,3,118.2,697.57,VIP,closed
+701074,2024-11-11,wuhan ,Store,SKU1004,4,79.9,508.65,Vip ,shipped
+700106,2024-06-03,wuhan ,app,sku_1005,2,70.02,354.55, normal,shipped

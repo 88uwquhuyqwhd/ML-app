@@ -1,0 +1,27 @@
+{
+  "name": "ml-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "build:backend": "cd frontend && npm run build:backend",
+    "build:all": "cd frontend && npm run build:all",
+    "clean:release": "powershell -ExecutionPolicy Bypass -File .\\scripts\\clean-release.ps1",
+    "package:win": "cd frontend && npm run package:win",
+    "package:portable": "cd frontend && npm run package:portable",
+    "lint": "cd frontend && npm run lint",
+    "preview": "cd frontend && npm run preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Windows 桌面端机器学习与统计分析平台",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "electron": "^41.2.0",
+    "electron-builder": "^26.8.1",
+    "vite": "^8.0.8"
+  }
+}

@@ -1,0 +1,38 @@
+﻿module,scenario,recommended_usage,filename,relative_path,rows,columns,format
+分类,SaaS 套餐升级建议,中文字段 / 多分类 / 业务演示,subscription_upgrade_cn.csv,classification/subscription_upgrade_cn.csv,1800,10,csv
+分类,体检筛查阳性预测,分类建模 / 指标可视化,medical_screening_classification.csv,classification/medical_screening_classification.csv,1600,10,csv
+分类,保险欺诈识别,不平衡分类 / 精确率召回率 / 风险识别,insurance_claim_fraud_imbalanced.csv,classification/insurance_claim_fraud_imbalanced.csv,2200,12,csv
+分类,信贷违约风险,二分类 / 逻辑回归 / 随机森林,credit_risk_classification.csv,classification/credit_risk_classification.csv,2200,10,csv
+分类,员工离职预测,分类建模 / 特征解释,hr_attrition_classification.csv,classification/hr_attrition_classification.csv,1500,10,csv
+分类,学生流失预测,分类建模 / 统计分析,student_dropout_classification.csv,classification/student_dropout_classification.csv,1500,10,csv
+分类,电信客户流失,分类建模 / 编码 / 缺失值 / 混淆矩阵,customer_churn_classification.csv,classification/customer_churn_classification.csv,1800,12,csv
+分类,营销活动响应,分类建模 / 分组分析,marketing_response_classification.csv,classification/marketing_response_classification.csv,2100,10,csv
+分类,设备健康状态多分类,多分类 / 工业预警 / 混淆矩阵,equipment_fault_multiclass.csv,classification/equipment_fault_multiclass.csv,1900,9,csv
+回归,制造质量评分,回归建模 / 工业场景,manufacturing_quality_regression.csv,regression/manufacturing_quality_regression.csv,1600,9,csv
+回归,年度医疗费用预测,回归建模 / 医疗业务演示,medical_cost_regression.csv,regression/medical_cost_regression.csv,2000,10,csv
+回归,房价预测,回归建模 / 异常值处理,housing_price_regression.csv,regression/housing_price_regression.csv,1800,11,csv
+回归,物流时效预测,回归建模 / 业务演示,logistics_delivery_time_regression.csv,regression/logistics_delivery_time_regression.csv,1700,9,csv
+回归,电商订单金额预测,回归建模 / 分类+数值混合,ecommerce_order_value_regression.csv,regression/ecommerce_order_value_regression.csv,2100,10,csv
+回归,能耗预测,回归建模 / 多类型字段,energy_consumption_regression.csv,regression/energy_consumption_regression.csv,1900,9,csv
+回归,销量预测,回归建模 / 时间字段演示,sales_forecast_regression.csv,regression/sales_forecast_regression.csv,1700,9,csv
+回归,门店营业额预测,中文字段 / 回归建模 / 线下零售,store_revenue_regression_cn.csv,regression/store_revenue_regression_cn.csv,1600,10,csv
+快速演示,快速分类演示,小样本 / 上手演示 / UI 联调,quick_classification_demo.csv,quick_demo/quick_classification_demo.csv,180,12,csv
+快速演示,快速回归演示,小样本 / 回归联调 / 快速出图,quick_regression_demo.csv,quick_demo/quick_regression_demo.csv,200,11,csv
+快速演示,快速统计演示,小样本 / 描述统计 / Excel 上传,quick_statistics_demo.xlsx,quick_demo/quick_statistics_demo.xlsx,160,9,xlsx
+快速演示,快速脏数据演示,小样本 / 清洗联调 / 滚动预览,quick_dirty_demo.csv,quick_demo/quick_dirty_demo.csv,180,10,csv
+统计,A/B 实验分析,T 检验 / 方差分析 / 描述统计,ab_test_experiment.csv,statistics/ab_test_experiment.csv,2400,9,csv
+统计,传感器主成分分析,PCA / 相关分析,pca_sensor_monitoring.csv,statistics/pca_sensor_monitoring.csv,2000,10,csv
+统计,员工满意度因子分析,因子分析 / 描述统计 / Excel 上传,employee_satisfaction_factor_analysis.xlsx,statistics/employee_satisfaction_factor_analysis.xlsx,1000,13,xlsx
+统计,培训效果 T 检验,独立样本 T 检验 / 前后差值分析,training_effect_t_test.csv,statistics/training_effect_t_test.csv,1600,7,csv
+统计,学生成绩相关分析,中文字段 / 相关分析 / PCA,exam_score_correlation_cn.xlsx,statistics/exam_score_correlation_cn.xlsx,1200,9,xlsx
+统计,市场调研问卷,卡方 / 描述统计 / 相关分析,market_research_survey.csv,statistics/market_research_survey.csv,1600,11,csv
+统计,广告投放线性回归,线性回归 / 相关分析 / 回归系数解释,ad_spend_linear_regression.csv,statistics/ad_spend_linear_regression.csv,1800,8,csv
+统计,渠道偏好卡方检验,卡方 / 交叉表,chi_square_store_preference.csv,statistics/chi_square_store_preference.csv,1800,6,csv
+统计,药物组间差异分析,方差分析 / 多组比较 / 医疗研究,drug_response_anova.csv,statistics/drug_response_anova.csv,1500,7,csv
+统计,贷款审批 Logit 回归,Logit 回归 / 二分类解释,loan_approval_logit.csv,statistics/loan_approval_logit.csv,2000,9,csv
+统计,零售客群聚类,聚类 / PCA / 描述统计,retail_segmentation_clustering.csv,statistics/retail_segmentation_clustering.csv,2400,8,csv
+脏数据,供应商质检脏数据,重复值 / 缺失值 / 百分比文本 / Excel 演示,dirty_supplier_quality.xlsx,dirty_data/dirty_supplier_quality.xlsx,1295,10,xlsx
+脏数据,客户画像脏数据,缺失值 / 异常值 / 日期字段 / 编码,dirty_customer_profile.csv,dirty_data/dirty_customer_profile.csv,1500,10,csv
+脏数据,房源信息脏数据,Excel 上传 / 缺失值 / 异常值,dirty_property_listing.xlsx,dirty_data/dirty_property_listing.xlsx,1200,10,xlsx
+脏数据,订单主数据脏数据,重复值 / 混合编码 / 日期清洗 / 类型识别,dirty_order_master.csv,dirty_data/dirty_order_master.csv,1405,10,csv
+脏数据,销售漏斗脏数据,缺失值 / 异常值 / 筛选 / 派生变量,dirty_sales_pipeline.csv,dirty_data/dirty_sales_pipeline.csv,1300,10,csv
